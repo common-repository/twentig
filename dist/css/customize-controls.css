@@ -1,0 +1,313 @@
+.control-section-twentig-more .accordion-section-title {
+	display: flex;
+	align-items: center;
+	padding-top: 11px;
+}
+
+.control-section-twentig-more .accordion-section-title span {
+	flex-grow: 1;
+	line-height: 1.2;
+	display: flex;
+	margin-inline-end: 10px;
+}
+
+.control-section-twentig-more .accordion-section-title .button {
+	margin-inline-end: -15px;
+	font-weight: 400;
+	background-color: #23282e;
+	border-color: #23282e;
+	color: #fff;
+	max-width: 60%;
+	white-space: normal;
+	text-align: center;
+	line-height: 1.2;
+	padding: 7px 10px;
+}
+
+.control-section-twentig-more .accordion-section-title .button:hover {
+	background-color: #32373d;
+}
+
+.customize-control-section-title {
+	margin: 20px 0;
+	border-top: 1px solid #ddd;
+	padding-top: 28px;
+}
+
+.customize-section-description-container + .customize-control-section-title {
+	border-top: 0;
+	padding-top: 0;
+	margin-top: 12px;
+}
+
+.customize-control-title {
+	line-height: 1.4;
+	margin-top: 2px;
+	margin-bottom: 7px;
+}
+
+.tw-customize-section-title {
+	font-size: 17px;
+	margin: 0;
+}
+
+.tw-customize-section-title + .customize-control-description,
+.customize-control-section-title .customize-control-description {
+	margin-top: 12px;
+	font-style: normal;
+}
+
+.customize-control-twentig-font-presets .customize-control-description {
+	margin-bottom: 16px;
+}
+
+.twentig-preset-list {
+	background: #fff;
+	padding: 10px 10px 0;
+	overflow-y: scroll;
+	height: 380px;
+	border: 1px solid #ddd;
+	border-top: 0;
+	display: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
+
+.twentig-preset-panel.is-open .twentig-preset-list {
+	display: block;
+}
+
+.twentig-preset-item {
+	cursor: pointer;
+	border: 1px solid #ddd;
+	margin-bottom: 10px;
+}
+
+.twentig-preset-item:hover,
+.twentig-preset-item:focus {
+	border-color: #999;
+}
+
+.twentig-preset-item-image {
+	background-image: url(../images/font-presets.png);
+	width: 250px;
+	height: 78px;
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	background-size: 250px 2496px;
+}
+
+.tw-font-preset-twentytwenty .twentig-preset-item:first-child .twentig-preset-item-image {
+	background-position-y: -2418px !important;
+}
+
+.twentig-preset-item img {
+	width: 250px;
+	vertical-align: top;
+}
+
+.twentig-preset-panel-title {
+	background-color: #fff;
+	border: 1px solid #ddd;
+	position: relative;
+	margin: 0;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
+
+.twentig-preset-panel-toggle {
+	width: 100%;
+	background: 0 0;
+	cursor: pointer;
+	text-align: start;
+	box-shadow: none;
+	outline: 0;
+	border: 0;
+	padding: 13px 15px;
+	color: #555d66;
+}
+
+.twentig-preset-panel-toggle .toggle-indicator {
+	vertical-align: bottom;
+	position: absolute;
+	top: 12px;
+	inset-inline-end: 10px;
+	z-index: 1;
+}
+
+.twentig-preset-panel-toggle .toggle-indicator::before {
+	content: "\f140";
+	font: normal 20px/1 dashicons;
+	speak: none;
+	display: block;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-decoration: none !important;
+}
+
+.twentig-preset-panel.is-open .toggle-indicator::before {
+	content: "\f142";
+}
+
+#customize-control-respect_user_color_preference {
+	border-top: 1px solid #ddd;
+	padding-top: 28px;
+	margin-top: 12px;
+}
+
+.customize-control.customize-control-tw-range .tw-control-range {
+	float: left;
+	width: calc(100% - 85px);
+	position: relative;
+	height: 30px;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	margin: 0;
+	padding: 0;
+	background-color: inherit;
+	outline: none;
+	cursor: pointer;
+}
+
+.customize-control.customize-control-tw-range .tw-control-range-value{
+	margin-left: 10px;
+	width: 75px;
+	font-size: 13px;
+}
+
+.tw-control-range::-webkit-slider-runnable-track {
+	height: 3px;
+	background: #d7dade;
+	border: none;
+}
+
+.tw-control-range::-moz-range-track {
+	height: 3px;
+ 	background: #d7dade;
+	border: none;
+}
+
+.tw-control-range::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	appearance: none;
+	border: none;
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+	background-color: #fff;
+	border: 1px solid rgb(126, 137, 147);
+	margin-top: -8px;
+}
+
+.tw-control-range:focus::-webkit-slider-thumb {
+	border-color: #00669b;
+}
+
+.tw-control-range::-moz-range-thumb {
+	border: none;
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+	background-color: #fff;
+	border: 1px solid rgb(126, 137, 147);
+	margin-top: -8px;
+}
+
+.twentig-customizer-starter-description {
+	margin-bottom: 22px;
+}
+
+.customize-control-starter label {
+	display: block;
+	font-size: 14px;
+	line-height: 1.4;
+	font-weight: 600;
+	margin-top: 2px;
+	margin-bottom: 8px;
+}
+
+.customize-control-starter select {
+	margin-bottom: 14px;
+}
+
+.customize-control-starter .button {
+	margin: 8px 0 0;
+}
+
+.twentig-customize-starter-terms {
+	font-size: 12px;
+	color: #646970;
+}
+
+.twentig-customize-starter-terms a {
+	color: inherit;
+}
+
+.customize-control-starter a.external-link:after {
+	font: 16px/11px dashicons;
+	content: "\f310";
+	top: 3px;
+	position: relative;
+	padding-left: 3px;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.customize-control-starter #twentig-customize-starter-help {
+	padding: 0;
+	width: 20px;
+	height: 20px;
+	cursor: pointer;
+	box-shadow: none;
+	-webkit-appearance: none;
+	background: 0 0;
+	color: #50575e;
+	border: none;
+}
+
+#twentig-customize-starter-screenshot:not(:empty) {
+	margin: 24px 0;	
+	max-width: 400px;
+}
+
+#twentig-customize-starter-screenshot img {
+	border: 1px solid #dcdcde;
+}
+
+.customize-control-starter p:last-child {
+	border-top: 1px solid #ddd;
+	padding-top: 24px;
+	margin-top: 32px;
+}
+
+@media (min-width: 782px) {
+
+	.twentig-preset-list {
+		max-height: calc(100vh - 400px);
+	}
+}
+
+.wp-customizer .select2-container {
+	min-width: 100%;
+	max-width: 100%;
+}
+
+.wp-customizer .select2-dropdown {
+	z-index: 700000;
+}
+
+.wp-customizer .select2-results__option {
+	margin-bottom: 0;
+}
+
+.wp-customizer .select2-results__option[role=list] {
+	padding: 0;
+}
+
+.wp-customizer .select2-container .select2-selection--single {
+	height: 30px;
+	border-color: #7e8993;
+}

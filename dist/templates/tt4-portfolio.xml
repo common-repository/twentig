@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- generator="WordPress/6.4.2" created="2024-01-10 10:51" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Sofia Palo</title>
+	<link>https://demo.twentig.com/tt4-portfolio</link>
+	<description></description>
+	<pubDate>Wed, 10 Jan 2024 10:51:35 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://demo.twentig.com/</wp:base_site_url>
+	<wp:base_blog_url>https://demo.twentig.com/tt4-portfolio</wp:base_blog_url>
+
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[twentigauthor]]></wp:author_login><wp:author_email><![CDATA[email@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Twentig Author]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+				
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+		<item>
+		<title><![CDATA[Why I love working from home]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/why-i-love-working-from-home/</link>
+		<pubDate>Sun, 07 Jan 2024 16:56:26 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Sunlight streams through the window, warming my back as I sip my tea. No blaring alarm, no frantic rush hour squeeze. Just me, my cozy corner, and a digital canvas humming with possibilities. This, my friends, is the magic of working from home.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sure, office life has its perks: the water cooler gossip, the impromptu brainstorming sessions. But for me, the trade-off for a commute-free existence is pure gold. It’s the extra hour carved out for a morning jog, the freedom to crank up the tunes that fuel my creativity, the luxury of throwing in a load of laundry between emails. The symphony of work and life, harmonizing in the comfort of my own space.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And speaking of space, my haven is no sterile cubicle. It’s a kaleidoscope of inspiration – books overflowing shelves, quirky prints on the wall, a vintage typewriter for when the digital world feels too sterile. Each object whispers a story, sparks an idea, reminds me that work doesn’t have to be confined to spreadsheets and deadlines. It can be messy, playful, a reflection of the vibrant me.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So, here’s to the quiet mornings, the flexible schedules, the furry co-workers who nap under my desk. Here’s to the blurred lines between work and life, reminding me that both are worth cherishing. This is my work-from-home haven, and I wouldn’t trade it for the world.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-07 16:56:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-07 16:56:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[why-i-love-working-from-home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[74]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Work]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/</link>
+		<pubDate>Sun, 07 Jan 2024 16:56:26 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1000px"},"metadata":{"name":"Hero"}} -->
+<div class="wp-block-group alignwide"><!-- wp:heading {"textAlign":"center","level":1,"align":"wide"} -->
+<h1 class="wp-block-heading alignwide has-text-align-center">Graphic designer and illustrator based in Helsinki, Finland</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query {"queryId":0,"query":{"perPage":"24","offset":0,"postType":"portfolio","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"parents":[]},"align":"wide","namespace":"twentig/portfolio-list"} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"style":{"spacing":{"blockGap":"40px"}},"layout":{"type":"grid","columnCount":2}} -->
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"24px"}}},"twStretchedLink":true} -->
+<div class="wp-block-group tw-stretched-link" style="margin-bottom:24px"><!-- wp:post-featured-image {"aspectRatio":"4/3","sizeSlug":"large","twHover":"fade"} /-->
+
+<!-- wp:post-title {"isLink":true,"style":{"typography":{"fontSize":"1.5rem"},"spacing":{"margin":{"top":"20px"}}},"className":"tw-link-no-underline"} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-pagination {"paginationArrow":"arrow","showLabel":false,"className":"tw-mt-8","layout":{"type":"flex","justifyContent":"center"},"fontSize":"medium"} -->
+<!-- wp:query-pagination-numbers {"className":"is-style-tw-circle"} /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-07 16:56:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-07 16:56:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[work]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+						
+							</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/navigation/</link>
+		<pubDate>Sun, 07 Jan 2024 17:00:21 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Work","type":"page","id":2,"url":"https://demo.twentig.com/tt4-portfolio/work/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"About","type":"page","id":10,"url":"https://demo.twentig.com/tt4-portfolio/about/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Blog","type":"page","id":12,"url":"https://demo.twentig.com/tt4-portfolio/blog/","kind":"post-type"} /-->
+
+<!-- wp:social-links {"size":"has-small-icon-size","className":"is-style-logos-only"} -->
+<ul class="wp-block-social-links has-small-icon-size is-style-logos-only"><!-- wp:social-link {"url":"contact@example.com","service":"mail"} /--></ul>
+<!-- /wp:social-links -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-07 17:00:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-07 17:00:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/wp-global-styles-twentytwentyfour/</link>
+		<pubDate>Mon, 08 Jan 2024 10:58:50 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[{"styles":{"typography":{"fontSize":"1.25rem"},"elements":{"heading":{"typography":{"fontFamily":"var(--wp--preset--font-family--body)","fontStyle":"normal","fontWeight":"500"}},"h1":{"typography":{"fontSize":"3.5rem"}},"button":{"typography":{"fontSize":"var(--wp--preset--font-size--medium)"}}},"spacing":{"padding":{"top":"0px","right":"var(--wp--preset--spacing--40)","bottom":"0px","left":"var(--wp--preset--spacing--40)"},"blockGap":"24px"},"css":"header.wp-block-template-part{\n\tposition: sticky;\n\tz-index: 10;\n\ttop: var(--wp-admin--admin-bar--height,0px);\n}\n\n.wp-block-query-no-results {\n\tpadding-top: 0;\n}","blocks":{"core\/button":{"spacing":{"padding":{"left":"20px","right":"20px","top":"10px","bottom":"10px"}},"border":{"radius":"0px"},"variations":{"outline":{"spacing":{"padding":{"left":"20px","right":"20px","top":"10px","bottom":"10px"}}}}},"core\/post-featured-image":{"border":{"radius":"0px"}},"core\/site-title":{"typography":{"fontSize":"1em","fontStyle":"normal","fontWeight":"500","textTransform":"uppercase"}},"core\/post-navigation-link":{"typography":{"lineHeight":"1.2","fontStyle":"normal","fontWeight":"500","fontSize":"1.5rem"}}}},"settings":{"color":{"palette":{"theme":[{"color":"#ffffff","name":"Base","slug":"base"},{"color":"#f9f9f9","name":"Base \/ Two","slug":"base-2"},{"color":"#111111","name":"Contrast","slug":"contrast"},{"color":"#636363","name":"Contrast \/ Two","slug":"contrast-2"},{"color":"#A4A4A4","name":"Contrast \/ Three","slug":"contrast-3"},{"color":"#cfcabe","name":"Accent","slug":"accent"},{"color":"#c2a990","name":"Accent \/ Two","slug":"accent-2"},{"color":"#d8613c","name":"Accent \/ Three","slug":"accent-3"},{"color":"#b1c5a4","name":"Accent \/ Four","slug":"accent-4"},{"color":"#b5bdbc","name":"Accent \/ Five","slug":"accent-5"}]}},"layout":{"contentSize":"692px","wideSize":"1152px"}},"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 10:58:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 10:58:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfour]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						</item>
+					<item>
+		<title><![CDATA[About]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/about/</link>
+		<pubDate>Mon, 08 Jan 2024 11:00:54 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"position":{"type":""}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"48px","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">About me</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I'm Sofia Palo, a Helsinki-based illustrator with a passion for creating vibrant and dynamic visuals. My art is a blend of playful colors and imaginative characters, each piece telling its own unique story.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In my work, simplicity meets creativity, resulting in illustrations that are as engaging as they are delightful. Every stroke and color is chosen with care to create visuals that resonate globally, transcending boundaries and connecting with diverse audiences.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I'm currently available for freelance work. For project inquiries: <a href="mailto:contact@example.com">contact@example.com</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:image {"id":79,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/about-sofia-769x1024.webp" alt="Photo of Sofia" class="wp-image-79"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 11:00:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 11:00:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/blog/</link>
+		<pubDate>Mon, 08 Jan 2024 11:04:01 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 11:04:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 11:04:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Canyon Rise]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/portfolio/canyon-rise/</link>
+		<pubDate>Mon, 08 Jan 2024 17:17:27 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Canyon Rise is an activity tracker that helps you stay fit and healthy. I designed multiple illustrations for its website, using a dynamic and modern style that matches its vision. The illustrations depict the various activities and goals that Canyon Rise supports, as well as the positive impact it has on your well-being.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"wide","id":59,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image alignwide size-large"><img src="https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/canyonrise-01-1024x576.png" alt="" class="wp-image-59"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"align":"wide","id":60,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image alignwide size-large"><img src="https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/canyonrise-02-1024x576.png" alt="" class="wp-image-60"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"align":"wide","id":61,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image alignwide size-large"><img src="https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/canyonrise-03-1024x576.png" alt="" class="wp-image-61"/></figure>
+<!-- /wp:image -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 17:17:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 17:17:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[canyon-rise]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[59]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[ShopperMail]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/portfolio/shoppermail/</link>
+		<pubDate>Mon, 08 Jan 2024 17:24:13 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>ShopperMail is a newsletter platform that helps businesses grow their sales and customer loyalty. I created a series of illustrations for its app, using a vibrant and friendly style that reflects its brand identity. The illustrations showcase the features and benefits of ShopperMail, as well as the diverse and happy customers that use its service.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"wide","id":64,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image alignwide size-large"><img src="https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/shoppermail-01-1024x576.png" alt="" class="wp-image-64"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"align":"wide","id":65,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image alignwide size-large"><img src="https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/shoppermail-02-1024x576.png" alt="" class="wp-image-65"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"align":"wide","id":66,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image alignwide size-large"><img src="https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/shoppermail-03-1024x576.png" alt="" class="wp-image-66"/></figure>
+<!-- /wp:image -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>52</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 17:24:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 17:24:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shoppermail]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[64]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[canyonrise-01]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/portfolio/canyon-rise/canyonrise-01/</link>
+		<pubDate>Tue, 09 Jan 2024 14:57:04 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>59</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-09 14:57:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-09 14:57:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[canyonrise-01]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>42</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/canyonrise-01.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/01/canyonrise-01.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2304;s:6:"height";i:1296;s:4:"file";s:25:"2024/01/canyonrise-01.png";s:8:"filesize";i:23041;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:25:"canyonrise-01-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:15721;}s:5:"large";a:5:{s:4:"file";s:26:"canyonrise-01-1024x576.png";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:70097;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"canyonrise-01-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13099;}s:12:"medium_large";a:5:{s:4:"file";s:25:"canyonrise-01-768x432.png";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:46077;}s:9:"1536x1536";a:5:{s:4:"file";s:26:"canyonrise-01-1536x864.png";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:105198;}s:9:"2048x2048";a:5:{s:4:"file";s:27:"canyonrise-01-2048x1152.png";s:5:"width";i:2048;s:6:"height";i:1152;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:148041;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[canyonrise-02]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/portfolio/canyon-rise/canyonrise-02/</link>
+		<pubDate>Tue, 09 Jan 2024 14:57:10 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>60</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-09 14:57:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-09 14:57:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[canyonrise-02]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>42</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/canyonrise-02.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/01/canyonrise-02.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2304;s:6:"height";i:1296;s:4:"file";s:25:"2024/01/canyonrise-02.png";s:8:"filesize";i:17400;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:25:"canyonrise-02-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13918;}s:5:"large";a:5:{s:4:"file";s:26:"canyonrise-02-1024x576.png";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:58090;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"canyonrise-02-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:11747;}s:12:"medium_large";a:5:{s:4:"file";s:25:"canyonrise-02-768x432.png";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:38916;}s:9:"1536x1536";a:5:{s:4:"file";s:26:"canyonrise-02-1536x864.png";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:85800;}s:9:"2048x2048";a:5:{s:4:"file";s:27:"canyonrise-02-2048x1152.png";s:5:"width";i:2048;s:6:"height";i:1152;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:118366;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[canyonrise-03]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/portfolio/canyon-rise/canyonrise-03/</link>
+		<pubDate>Tue, 09 Jan 2024 14:57:16 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>61</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-09 14:57:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-09 14:57:16]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[canyonrise-03]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>42</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/canyonrise-03.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/01/canyonrise-03.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2304;s:6:"height";i:1296;s:4:"file";s:25:"2024/01/canyonrise-03.png";s:8:"filesize";i:14162;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:25:"canyonrise-03-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:11000;}s:5:"large";a:5:{s:4:"file";s:26:"canyonrise-03-1024x576.png";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:49459;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"canyonrise-03-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9190;}s:12:"medium_large";a:5:{s:4:"file";s:25:"canyonrise-03-768x432.png";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:32208;}s:9:"1536x1536";a:5:{s:4:"file";s:26:"canyonrise-03-1536x864.png";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:71052;}s:9:"2048x2048";a:5:{s:4:"file";s:27:"canyonrise-03-2048x1152.png";s:5:"width";i:2048;s:6:"height";i:1152;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:99895;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[shoppermail-01]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/portfolio/shoppermail/shoppermail-01/</link>
+		<pubDate>Tue, 09 Jan 2024 15:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>64</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-09 15:00:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-09 15:00:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shoppermail-01]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>52</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/shoppermail-01.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/01/shoppermail-01.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2304;s:6:"height";i:1296;s:4:"file";s:26:"2024/01/shoppermail-01.png";s:8:"filesize";i:24039;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:26:"shoppermail-01-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:17528;}s:5:"large";a:5:{s:4:"file";s:27:"shoppermail-01-1024x576.png";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:74536;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"shoppermail-01-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14700;}s:12:"medium_large";a:5:{s:4:"file";s:26:"shoppermail-01-768x432.png";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:50111;}s:9:"1536x1536";a:5:{s:4:"file";s:27:"shoppermail-01-1536x864.png";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:112546;}s:9:"2048x2048";a:5:{s:4:"file";s:28:"shoppermail-01-2048x1152.png";s:5:"width";i:2048;s:6:"height";i:1152;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:155478;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[shoppermail-02]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/portfolio/shoppermail/shoppermail-02/</link>
+		<pubDate>Tue, 09 Jan 2024 15:00:33 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>65</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-09 15:00:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-09 15:00:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shoppermail-02]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>52</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/shoppermail-02.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/01/shoppermail-02.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2304;s:6:"height";i:1296;s:4:"file";s:26:"2024/01/shoppermail-02.png";s:8:"filesize";i:20284;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:26:"shoppermail-02-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14606;}s:5:"large";a:5:{s:4:"file";s:27:"shoppermail-02-1024x576.png";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:62544;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"shoppermail-02-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12198;}s:12:"medium_large";a:5:{s:4:"file";s:26:"shoppermail-02-768x432.png";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:42248;}s:9:"1536x1536";a:5:{s:4:"file";s:27:"shoppermail-02-1536x864.png";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:93731;}s:9:"2048x2048";a:5:{s:4:"file";s:28:"shoppermail-02-2048x1152.png";s:5:"width";i:2048;s:6:"height";i:1152;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:128436;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[shoppermail-03]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/portfolio/shoppermail/shoppermail-03/</link>
+		<pubDate>Tue, 09 Jan 2024 15:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>66</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-09 15:00:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-09 15:00:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shoppermail-03]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>52</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/shoppermail-03.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/01/shoppermail-03.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2304;s:6:"height";i:1296;s:4:"file";s:26:"2024/01/shoppermail-03.png";s:8:"filesize";i:22597;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:26:"shoppermail-03-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14393;}s:5:"large";a:5:{s:4:"file";s:27:"shoppermail-03-1024x576.png";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:64393;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"shoppermail-03-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12121;}s:12:"medium_large";a:5:{s:4:"file";s:26:"shoppermail-03-768x432.png";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:43821;}s:9:"1536x1536";a:5:{s:4:"file";s:27:"shoppermail-03-1536x864.png";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:98632;}s:9:"2048x2048";a:5:{s:4:"file";s:28:"shoppermail-03-2048x1152.png";s:5:"width";i:2048;s:6:"height";i:1152;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:134557;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[tea]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/why-i-love-working-from-home/tea/</link>
+		<pubDate>Tue, 09 Jan 2024 23:07:45 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>74</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-09 23:07:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-09 23:07:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[tea]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/tea.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/01/tea.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1384;s:6:"height";i:920;s:4:"file";s:16:"2024/01/tea.webp";s:8:"filesize";i:31610;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:16:"tea-300x199.webp";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6996;}s:5:"large";a:5:{s:4:"file";s:17:"tea-1024x681.webp";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:31132;}s:9:"thumbnail";a:5:{s:4:"file";s:16:"tea-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3580;}s:12:"medium_large";a:5:{s:4:"file";s:16:"tea-768x511.webp";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:21568;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[How to use color in your illustrations]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/how-to-use-color-in-your-illustrations/</link>
+		<pubDate>Tue, 09 Jan 2024 23:09:51 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Color is one of the most important elements of illustration. It can create mood, contrast, harmony, and interest in your artwork. But how do you use color effectively in your illustrations? Here are some tips to help you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The first tip is to choose a color scheme. A color scheme is a set of colors that work well together and create a certain effect. There are different types of color schemes, such as monochromatic, analogous, complementary, triadic, and tetradic. You can use a color wheel to help you find a color scheme that suits your illustration.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The second tip is to use value and saturation. Value is the lightness or darkness of a color, and saturation is the intensity or purity of a color. By varying the value and saturation of your colors, you can create depth, contrast, and emphasis in your illustration. For example, you can use darker and less saturated colors for the background, and lighter and more saturated colors for the foreground.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The third tip is to use color temperature. Color temperature is the warmth or coolness of a color. Warm colors, such as red, orange, and yellow, tend to convey energy, excitement, and passion. Cool colors, such as blue, green, and purple, tend to convey calmness, tranquility, and mystery. You can use color temperature to create mood, atmosphere, and emotion in your illustration.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>76</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-09 23:09:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-09 23:09:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[how-to-use-color-in-your-illustrations]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[77]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[colors]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/how-to-use-color-in-your-illustrations/colors/</link>
+		<pubDate>Tue, 09 Jan 2024 23:09:31 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>77</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-09 23:09:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-09 23:09:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[colors]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>76</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/colors.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/01/colors.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1384;s:6:"height";i:920;s:4:"file";s:19:"2024/01/colors.webp";s:8:"filesize";i:24286;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:19:"colors-300x199.webp";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5526;}s:5:"large";a:5:{s:4:"file";s:20:"colors-1024x681.webp";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:22308;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"colors-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3042;}s:12:"medium_large";a:5:{s:4:"file";s:19:"colors-768x511.webp";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:15940;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[about-sofia]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/about/about-sofia/</link>
+		<pubDate>Wed, 10 Jan 2024 10:22:50 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>79</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-10 10:22:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-10 10:22:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-sofia]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>10</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-portfolio/wp-content/uploads/sites/17/2024/01/about-sofia.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/01/about-sofia.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1048;s:6:"height";i:1396;s:4:"file";s:24:"2024/01/about-sofia.webp";s:8:"filesize";i:40178;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:24:"about-sofia-225x300.webp";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7028;}s:5:"large";a:5:{s:4:"file";s:25:"about-sofia-769x1024.webp";s:5:"width";i:769;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:38076;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"about-sofia-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3476;}s:12:"medium_large";a:5:{s:4:"file";s:25:"about-sofia-768x1023.webp";s:5:"width";i:768;s:6:"height";i:1023;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:37544;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Header]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/header/</link>
+		<pubDate>Mon, 08 Jan 2024 11:23:57 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"20px","bottom":"20px"},"margin":{"bottom":"var:preset|spacing|50"}}},"backgroundColor":"base","layout":{"type":"default"}} -->
+<div class="wp-block-group has-base-background-color has-background" style="margin-bottom:var(--wp--preset--spacing--50);padding-top:20px;padding-bottom:20px"><!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between","flexWrap":"wrap"}} -->
+<div class="wp-block-group alignwide"><!-- wp:site-title {"level":0} /-->
+
+<!-- wp:navigation {"ref":4,"layout":{"type":"flex","justifyContent":"left","orientation":"horizontal"},"style":{"spacing":{"blockGap":"32px"},"layout":{"selfStretch":"fit","flexSize":null}},"fontSize":"medium","twHoverStyle":"border","twActiveStyle":"border"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 11:23:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 11:23:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[header]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="header"><![CDATA[header]]></category>
+		<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Footer Navigation]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/navigation-2/</link>
+		<pubDate>Mon, 08 Jan 2024 11:28:25 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Instagram","url":"#","kind":"custom"} /-->
+
+<!-- wp:navigation-link {"label":"LinkedIn","url":"#","kind":"custom"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 11:28:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 11:28:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer-navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Footer]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/footer/</link>
+		<pubDate>Mon, 08 Jan 2024 11:28:25 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"40px","bottom":"40px"},"margin":{"top":"var:preset|spacing|50"},"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--50);padding-top:40px;padding-bottom:40px"><!-- wp:paragraph {"style":{"spacing":{"margin":{"right":"12px"}}},"textColor":"contrast-2","fontSize":"medium"} -->
+<p class="has-contrast-2-color has-text-color has-medium-font-size" style="margin-right:12px">© 2024. Made with Twentig.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:navigation {"ref":16,"overlayMenu":"never","style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"medium"} /--></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 11:28:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 11:28:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="footer"><![CDATA[footer]]></category>
+		<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog Home]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/home/</link>
+		<pubDate>Mon, 08 Jan 2024 13:43:40 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:heading {"textAlign":"center","level":1} -->
+<h1 class="wp-block-heading has-text-align-center">News &amp; blog</h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query {"queryId":1,"query":{"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true,"perPage":10},"layout":{"type":"constrained"}} -->
+<div class="wp-block-query"><!-- wp:post-template {"style":{"spacing":{"blockGap":"64px"}},"layout":{"type":"default","columnCount":2}} -->
+<!-- wp:group {"twStretchedLink":true} -->
+<div class="wp-block-group tw-stretched-link"><!-- wp:post-featured-image {"aspectRatio":"3/2"} /-->
+
+<!-- wp:post-title {"isLink":true,"style":{"typography":{"fontSize":"1.5rem"},"spacing":{"margin":{"top":"20px"}}}} /-->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"8px"}}},"layout":{"type":"flex","allowOrientation":false}} -->
+<div class="wp-block-group" style="margin-top:8px"><!-- wp:post-date {"format":"M j, Y"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-pagination {"className":"tw-mt-8","layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"},"fontSize":"medium"} -->
+<!-- wp:query-pagination-numbers {"className":"is-style-tw-circle"} /-->
+<!-- /wp:query-pagination -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<p class="has-text-align-center" style="margin-top:0;margin-bottom:0">No posts were found.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays the latest posts as either the site homepage or as the "Posts page" as defined under reading settings. If it exists, the Front Page template overrides this template when posts are shown on the homepage.]]></excerpt:encoded>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 13:43:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 13:43:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[All Archives]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/archive/</link>
+		<pubDate>Mon, 08 Jan 2024 14:08:57 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:query-title {"type":"archive","textAlign":"center","showPrefix":false,"align":"wide"} /-->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query {"queryId":2,"query":{"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true,"perPage":10},"layout":{"type":"constrained"}} -->
+<div class="wp-block-query"><!-- wp:post-template {"style":{"spacing":{"blockGap":"64px"}},"layout":{"type":"default","columnCount":2}} -->
+<!-- wp:group {"twStretchedLink":true} -->
+<div class="wp-block-group tw-stretched-link"><!-- wp:post-featured-image {"aspectRatio":"3/2"} /-->
+
+<!-- wp:post-title {"isLink":true,"style":{"typography":{"fontSize":"1.5rem"},"spacing":{"margin":{"top":"20px"}}}} /-->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"8px"}}},"layout":{"type":"flex","allowOrientation":false}} -->
+<div class="wp-block-group" style="margin-top:8px"><!-- wp:post-date {"format":"M j, Y"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-pagination {"className":"tw-mt-8","layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"},"fontSize":"medium"} -->
+<!-- wp:query-pagination-numbers {"className":"is-style-tw-circle"} /-->
+<!-- /wp:query-pagination -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<p class="has-text-align-center" style="margin-top:0;margin-bottom:0">No posts were found.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays any archive, including posts by a single author, category, tag, taxonomy, custom post type, and date. This template will serve as a fallback when more specific templates (e.g. Category or Tag) cannot be found.]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 14:08:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 14:08:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[archive]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Index]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/index/</link>
+		<pubDate>Mon, 08 Jan 2024 14:10:54 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:heading {"textAlign":"center","level":1} -->
+<h1 class="wp-block-heading has-text-align-center">Posts</h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query {"queryId":3,"query":{"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true,"perPage":10},"layout":{"type":"constrained"}} -->
+<div class="wp-block-query"><!-- wp:post-template {"style":{"spacing":{"blockGap":"64px"}},"layout":{"type":"default","columnCount":2}} -->
+<!-- wp:group {"twStretchedLink":true} -->
+<div class="wp-block-group tw-stretched-link"><!-- wp:post-featured-image {"aspectRatio":"3/2"} /-->
+
+<!-- wp:post-title {"isLink":true,"style":{"typography":{"fontSize":"1.5rem"},"spacing":{"margin":{"top":"20px"}}}} /-->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"8px"}}},"layout":{"type":"flex","allowOrientation":false}} -->
+<div class="wp-block-group" style="margin-top:8px"><!-- wp:post-date {"format":"M j, Y"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-pagination {"className":"tw-mt-8","layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"},"fontSize":"medium"} -->
+<!-- wp:query-pagination-numbers {"className":"is-style-tw-circle"} /-->
+<!-- /wp:query-pagination -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<p class="has-text-align-center" style="margin-top:0;margin-bottom:0">No posts were found.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Used as a fallback template for all pages when a more specific template is not defined.]]></excerpt:encoded>
+		<wp:post_id>24</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 14:10:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 14:10:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[index]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Page No Title]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/page-no-title/</link>
+		<pubDate>Mon, 08 Jan 2024 14:12:03 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","area":"header","tagName":"header","theme":"twentytwentyfour"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)">
+<!-- wp:post-content {"lock":{"move":false,"remove":true},"layout":{"type":"constrained"}} /-->
+</main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","area":"footer","tagName":"footer","theme":"twentytwentyfour"} /-->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 14:12:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 14:12:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page-no-title]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Page With Sidebar]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/page-with-sidebar/</link>
+		<pubDate>Mon, 08 Jan 2024 14:14:04 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","area":"header","tagName":"header","theme":"twentytwentyfour"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"60px","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"70%"} -->
+<div class="wp-block-column" style="flex-basis:70%"><!-- wp:post-title {"level":1,"align":"wide","style":{"spacing":{"margin":{"bottom":"40px"}}}} /-->
+
+<!-- wp:post-content {"lock":{"move":false,"remove":true},"layout":{"type":"default"}} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"30%"} -->
+<div class="wp-block-column" style="flex-basis:30%"><!-- wp:template-part {"slug":"sidebar","theme":"twentytwentyfour","tagName":"aside"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","area":"footer","tagName":"footer","theme":"twentytwentyfour"} /-->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>26</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 14:14:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 14:14:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page-with-sidebar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Page with wide Image]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/page-wide/</link>
+		<pubDate>Mon, 08 Jan 2024 14:15:40 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","area":"header","tagName":"header","theme":"twentytwentyfour"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}},"layout":{"type":"default"}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:group {"align":"wide","layout":{"type":"constrained"},"metadata":{"name":"Hero"}} -->
+<div class="wp-block-group alignwide"><!-- wp:post-title {"level":1} /-->
+
+<!-- wp:post-featured-image {"align":"wide","style":{"spacing":{"margin":{"top":"48px","bottom":"48px"}}}} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-content {"lock":{"move":false,"remove":true},"layout":{"type":"constrained"}} /--></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","area":"footer","tagName":"footer","theme":"twentytwentyfour"} /-->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 14:15:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 14:15:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page-wide]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Page: 404]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/404/</link>
+		<pubDate>Mon, 08 Jan 2024 14:16:44 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:heading {"textAlign":"center","level":1} -->
+<h1 class="wp-block-heading has-text-align-center" id="page-not-found">Page not found</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"bottom":"32px"}}}} -->
+<p class="has-text-align-center" style="margin-bottom:32px">The page you are looking for does not exist, or it has been moved. Try again or go back to the homepage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="SITE_URL">Go home</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays when a visitor views a non-existent page, such as a dead link or a mistyped URL.]]></excerpt:encoded>
+		<wp:post_id>28</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 14:16:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 14:16:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[404]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Pages]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/page/</link>
+		<pubDate>Mon, 08 Jan 2024 14:20:09 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:group {"style":{"spacing":{"margin":{"bottom":"40px"}}},"layout":{"type":"constrained"},"metadata":{"name":"Hero"}} -->
+<div class="wp-block-group" style="margin-bottom:40px"><!-- wp:post-title {"level":1} /-->
+
+<!-- wp:post-featured-image {"style":{"spacing":{"margin":{"top":"48px","bottom":"48px"}}}} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-content {"lock":{"move":false,"remove":true},"layout":{"type":"constrained"}} /--></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Display all static pages unless a custom template has been applied or a dedicated template exists.]]></excerpt:encoded>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 14:20:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 14:20:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Search Results]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/search/</link>
+		<pubDate>Mon, 08 Jan 2024 14:21:27 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:query-title {"type":"search","textAlign":"center","align":"wide"} /-->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query {"queryId":24,"query":{"perPage":8,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"layout":{"type":"constrained"}} -->
+<div class="wp-block-query"><!-- wp:post-template {"style":{"spacing":{"blockGap":"64px"}},"layout":{"type":"default","columnCount":2}} -->
+<!-- wp:group {"twStretchedLink":true} -->
+<div class="wp-block-group tw-stretched-link"><!-- wp:post-featured-image {"aspectRatio":"3/2"} /-->
+
+<!-- wp:post-title {"isLink":true,"style":{"typography":{"fontSize":"1.5rem"},"spacing":{"margin":{"top":"20px"}}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-pagination {"className":"tw-mt-8","layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"},"fontSize":"medium"} -->
+<!-- wp:query-pagination-numbers {"className":"is-style-tw-circle"} /-->
+<!-- /wp:query-pagination -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<p class="has-text-align-center" style="margin-top:0;margin-bottom:0">No posts were found.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays when a visitor performs a search on your website.]]></excerpt:encoded>
+		<wp:post_id>31</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 14:21:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 14:21:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[search]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Single Posts]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/single/</link>
+		<pubDate>Mon, 08 Jan 2024 14:23:03 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:group {"style":{"spacing":{"margin":{"bottom":"40px"}}},"layout":{"type":"constrained"},"metadata":{"name":"Hero"}} -->
+<div class="wp-block-group" style="margin-bottom:40px"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-top:0;padding-bottom:0"><!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
+<div class="wp-block-group"><!-- wp:post-date {"format":"M j, Y"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-title {"level":1,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}},"typography":{"fontSize":"3rem"}}} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-featured-image {"align":"wide","style":{"spacing":{"margin":{"bottom":"48px","top":"48px"}}}} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-content {"lock":{"move":false,"remove":true},"align":"full","layout":{"type":"constrained"}} /-->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:post-terms {"term":"post_tag","separator":"  ","style":{"spacing":{"margin":{"top":"48px"}}},"className":"is-style-tw-outline-pill"} /-->
+
+<!-- wp:spacer {"height":"var:preset|spacing|40"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"isStackedOnMobile":false,"align":"wide"} -->
+<div class="wp-block-columns alignwide is-not-stacked-on-mobile"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:post-navigation-link {"type":"previous","label":"","showTitle":true,"arrow":"arrow","className":"tw-link-hover-underline"} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:post-navigation-link {"textAlign":"right","label":"","showTitle":true,"arrow":"arrow","className":"tw-link-hover-underline"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays single posts on your website unless a custom template has been applied to that post or a dedicated template exists.]]></excerpt:encoded>
+		<wp:post_id>32</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 14:23:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 14:23:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[single]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Single with Sidebar]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/single-with-sidebar/</link>
+		<pubDate>Mon, 08 Jan 2024 14:23:41 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"60px","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"70%"} -->
+<div class="wp-block-column" style="flex-basis:70%"><!-- wp:group {"layout":{"type":"flex","allowOrientation":false}} -->
+<div class="wp-block-group"><!-- wp:post-date {"format":"M j, Y","fontSize":"medium"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-title {"level":1,"align":"wide","style":{"spacing":{"margin":{"bottom":"40px","top":"var:preset|spacing|10"}}}} /-->
+
+<!-- wp:post-featured-image {"style":{"spacing":{"margin":{"top":"48px","bottom":"48px"}}}} /-->
+
+<!-- wp:post-content {"lock":{"move":false,"remove":true},"layout":{"type":"default"}} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"30%"} -->
+<div class="wp-block-column" style="flex-basis:30%"><!-- wp:template-part {"slug":"sidebar","theme":"twentytwentyfour","tagName":"aside"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 14:23:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 14:23:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[single-with-sidebar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Single item: Project]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/single-portfolio/</link>
+		<pubDate>Mon, 08 Jan 2024 14:26:23 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:group {"style":{"spacing":{"margin":{"bottom":"40px"},"blockGap":"var:preset|spacing|10"}},"layout":{"type":"constrained"},"metadata":{"name":"Hero"}} -->
+<div class="wp-block-group" style="margin-bottom:40px"><!-- wp:post-terms {"term":"portfolio_category","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}},"spacing":{"margin":{"top":"16px"}}},"textColor":"contrast-2","fontSize":"medium","twUnlink":true} /-->
+
+<!-- wp:post-title {"level":1} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-content {"lock":{"move":false,"remove":true},"align":"full","layout":{"type":"constrained"}} /-->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:spacer {"height":"var:preset|spacing|40"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"isStackedOnMobile":false,"align":"wide"} -->
+<div class="wp-block-columns alignwide is-not-stacked-on-mobile"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:post-navigation-link {"type":"previous","label":"","showTitle":true,"arrow":"arrow","className":"tw-link-hover-underline"} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:post-navigation-link {"textAlign":"right","label":"","showTitle":true,"arrow":"arrow","className":"tw-link-hover-underline"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 14:26:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 14:26:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[single-portfolio]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[is_wp_suggestion]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Project Categories]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/taxonomy-portfolio_category/</link>
+		<pubDate>Mon, 08 Jan 2024 14:30:30 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:query-title {"type":"archive","textAlign":"center","showPrefix":false,"align":"wide"} /-->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query {"query":{"perPage":24,"offset":0,"postType":"portfolio","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true,"parents":[]},"align":"wide","namespace":"twentig/portfolio-list"} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"style":{"spacing":{"blockGap":"40px"}},"layout":{"type":"grid","columnCount":2}} -->
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"20px"}}},"twStretchedLink":true} -->
+<div class="wp-block-group tw-stretched-link" style="margin-bottom:20px"><!-- wp:post-featured-image {"aspectRatio":"4/3","sizeSlug":"large","twHover":"fade"} /-->
+
+<!-- wp:post-title {"isLink":true,"style":{"typography":{"fontSize":"1.5rem"},"spacing":{"margin":{"top":"20px"}}},"className":"tw-link-no-underline"} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-pagination {"paginationArrow":"arrow","showLabel":false,"className":"tw-mt-8","layout":{"type":"flex","justifyContent":"center"},"fontSize":"medium"} -->
+<!-- wp:query-pagination-numbers {"className":"is-style-tw-circle"} /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:query --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>38</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 14:30:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 14:30:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[taxonomy-portfolio_category]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[is_wp_suggestion]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Project Tags]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/taxonomy-portfolio_tag/</link>
+		<pubDate>Mon, 08 Jan 2024 14:32:01 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"top":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10)"><!-- wp:query-title {"type":"archive","textAlign":"center","showPrefix":false,"align":"wide"} /-->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query {"queryId":3,"query":{"perPage":24,"offset":0,"postType":"portfolio","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true,"parents":[]},"align":"wide","namespace":"twentig/portfolio-list"} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"style":{"spacing":{"blockGap":"40px"}},"layout":{"type":"grid","columnCount":2}} -->
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"20px"}}},"twStretchedLink":true} -->
+<div class="wp-block-group tw-stretched-link" style="margin-bottom:20px"><!-- wp:post-featured-image {"aspectRatio":"4/3","sizeSlug":"large","twHover":"fade"} /-->
+
+<!-- wp:post-title {"isLink":true,"style":{"typography":{"fontSize":"1.5rem"},"spacing":{"margin":{"top":"20px"}}},"className":"tw-link-no-underline"} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-pagination {"paginationArrow":"arrow","showLabel":false,"className":"tw-mt-8","layout":{"type":"flex","justifyContent":"center"},"fontSize":"medium"} -->
+<!-- wp:query-pagination-numbers {"className":"is-style-tw-circle"} /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:query --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-08 14:32:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-08 14:32:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[taxonomy-portfolio_tag]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[is_wp_suggestion]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sidebar]]></title>
+		<link>https://demo.twentig.com/tt4-portfolio/sidebar/</link>
+		<pubDate>Wed, 10 Jan 2024 10:32:19 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"blockGap":"40px"}},"layout":{"type":"default"},"fontSize":"medium"} -->
+<div class="wp-block-group has-medium-font-size"><!-- wp:separator {"style":{"spacing":{"margin":{"bottom":"40px"}}},"className":"is-style-wide tw-lg-hidden tw-md-hidden"} -->
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide tw-lg-hidden tw-md-hidden" style="margin-bottom:40px"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontSize":"1em"}}} -->
+<h2 class="wp-block-heading" style="font-size:1em">Recent posts</h2>
+<!-- /wp:heading -->
+
+<!-- wp:latest-posts /--></div>
+<!-- /wp:group -->
+
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontSize":"1em"}}} -->
+<h2 class="wp-block-heading" style="font-size:1em">Newsletter</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Join hundreds of subscribers and receive exclusive news and resources.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"fontSize":"small"} -->
+<div class="wp-block-button has-custom-font-size has-small-font-size"><a class="wp-block-button__link wp-element-button">Subscribe</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>87</wp:post_id>
+		<wp:post_date><![CDATA[2024-01-10 10:32:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-01-10 10:32:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sidebar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+		<category domain="wp_template_part_area" nicename="uncategorized"><![CDATA[uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+				</channel>
+</rss>
+	

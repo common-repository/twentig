@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<!-- generator="WordPress/6.4.1" created="2023-11-21 14:31" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Chloé Montclair</title>
+	<link>https://demo.twentig.com/tt4-blog</link>
+	<description></description>
+	<pubDate>Tue, 21 Nov 2023 14:31:08 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://demo.twentig.com/</wp:base_site_url>
+	<wp:base_blog_url>https://demo.twentig.com/tt4-blog</wp:base_blog_url>
+	<wp:author><wp:author_id>4</wp:author_id><wp:author_login><![CDATA[twentigauthor]]></wp:author_login><wp:author_email><![CDATA[email@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Twentig Author]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+				<wp:term>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[footer]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>3</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[header]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[header]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[twentytwentyfour]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[twentytwentyfour]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>5</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[uncategorized]]></wp:term_name>
+	</wp:term>
+		
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+		<item>
+		<title><![CDATA[Capturing the Beauty of Everyday Moments]]></title>
+		<link>https://demo.twentig.com/tt4-blog/capturing-the-beauty-of-everyday-moments/</link>
+		<pubDate>Tue, 21 Nov 2023 13:08:55 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>As a product designer, I am always looking for ways to capture the beauty of everyday moments. I believe that the best way to do this is through photography. Photography is a powerful tool that can help us to see the world in a different light and appreciate the little things in life.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One of the most important aspects of photography is lighting. When we take a photo, we are capturing the light that is reflecting off of the objects in the scene. This is why it is so important to pay attention to the lighting in our photos. By using natural light, we can create beautiful and realistic images that truly capture the essence of the moment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size">Using Natural Light in Photography</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Natural light is a powerful tool in photography. It can help us to create different moods and atmospheres in our photos, depending on the time of the day, the weather, and the season. For example, the golden hour, which is the period of time shortly after sunrise or before sunset, can create a warm and soft glow in our photos. The blue hour, which is the period of time before sunrise or after sunset, can create a cool and calm tone in our photos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When using natural light, we need to consider the direction, intensity, and quality of the light. The direction of the light can affect the shadows and highlights in our photos. The intensity of the light can affect the exposure and contrast in our photos. The quality of the light can affect the color and texture in our photos. By adjusting our camera settings and angles, we can manipulate the natural light to achieve the desired effect in our photos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size">The Art of Storytelling</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Another way to capture the beauty of everyday moments is through storytelling. Storytelling is the art of creating and sharing stories that engage and inspire the audience. Storytelling can be done through various mediums, such as writing, speaking, or visualizing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A good story can convey a message, a lesson, or a feeling. A good story can also connect with the audience on an emotional level, and make them feel something. A good story can make the ordinary extraordinary, and the mundane magical.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 13:08:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 13:08:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[capturing-the-beauty-of-everyday-moments]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[About]]></title>
+		<link>https://demo.twentig.com/tt4-blog/about/</link>
+		<pubDate>Tue, 21 Nov 2023 13:08:55 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:heading {"textAlign":"center","level":1,"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}}} -->
+<h1 class="wp-block-heading alignwide has-text-align-center" style="margin-bottom:var(--wp--preset--spacing--50)">I'm Chloé, a product manager based in London who is passionate about design</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="THEME_URL/assets/images/tourist-and-building.webp" alt="Tourist taking photo of a building"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|20"} -->
+<div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>I'm a product manager at Acme, a start-up that creates innovative solutions for various industries. I enjoy writing about the challenges and opportunities of being a product manager in a fast-paced industry. I also love to learn new things and push myself beyond my comfort zone every day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size">My journey</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I've always been fascinated by design and how it shapes our world. Ever since I was a kid, I enjoyed drawing, painting and making things with my hands. I also had a curiosity for how things work and why they are the way they are. I was lucky to have parents who encouraged me to pursue my interests and supported me in my education.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I studied product design at the University of the Arts London, where I learned the fundamentals of design thinking, user research, prototyping and testing. I also had the opportunity to work on various projects with real clients and users, which gave me valuable experience and feedback. After graduating, I joined Acme as a junior product manager.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size">Passions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I enjoy photography, especially architecture photography. I have a passion for capturing the beauty of buildings, and how they reflect the culture and history of their locations. I have travelled to many countries and cities, such as Paris, Berlin, New York, Tokyo and Dubai, and taken photos of their iconic and stunning architectures. You can see some of my photos in my gallery section.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some of the other things that I'm passionate about are:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Traveling and discovering new cultures</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Reading books and magazines on design, technology and business</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Cooking and baking healthy and delicious meals</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Practicing yoga and meditation</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size">Aspirations</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>My aspiration is to create products that make a positive impact on people’s lives and the world. I want to use my skills and knowledge to solve meaningful problems and create value for users and society. I also want to keep learning and improving myself as a product manager and as a designer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Another aspiration of mine is to inspire and empower others to pursue their passions and goals. I want to share my knowledge and experience with others who are interested in product design, management, and photography. I also want to support and mentor young and aspiring product managers. I believe that by helping others, I can also help myself.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 13:08:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 13:08:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demo.twentig.com/tt4-blog/wp-global-styles-twentytwentyfour/</link>
+		<pubDate>Tue, 21 Nov 2023 13:12:50 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[{"styles":{"spacing":{"padding":{"top":"0px","right":"var(--wp--preset--spacing--40)","bottom":"0px","left":"var(--wp--preset--spacing--40)"},"blockGap":"1.25rem"},"blocks":{"core\/post-featured-image":{"border":{"radius":"0px"}}}},"settings":{"layout":{"wideSize":"980px"}},"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 13:12:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 13:12:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfour]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://demo.twentig.com/tt4-blog/navigation/</link>
+		<pubDate>Tue, 21 Nov 2023 13:15:49 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:home-link {"label":"Home"} /-->
+
+<!-- wp:navigation-link {"label":"Gallery","type":"page","id":8,"url":"https://demo.twentig.com/tt4-blog/gallery/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"About","type":"page","id":2,"url":"https://demo.twentig.com/tt4-blog/about/","kind":"post-type"} /-->
+
+<!-- wp:social-links {"iconColor":"contrast","iconColorValue":"#111111","size":"has-small-icon-size","style":{"spacing":{"blockGap":{"left":"16px"}}},"className":"is-style-logos-only","twHover":"opacity-down"} -->
+<ul class="wp-block-social-links has-small-icon-size has-icon-color is-style-logos-only tw-hover-opacity-down"><!-- wp:social-link {"url":"https://instagram.com","service":"instagram"} /-->
+
+<!-- wp:social-link {"url":"mailto:email@example.com","service":"mail"} /--></ul>
+<!-- /wp:social-links -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 13:15:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 13:15:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Gallery]]></title>
+		<link>https://demo.twentig.com/tt4-blog/gallery/</link>
+		<pubDate>Tue, 21 Nov 2023 13:26:10 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:heading {"textAlign":"center","level":1,"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|50"}}}} -->
+<h1 class="wp-block-heading alignwide has-text-align-center" style="margin-bottom:var(--wp--preset--spacing--50)">Exploring the beauty and diversity of architecture around the world</h1>
+<!-- /wp:heading -->
+
+<!-- wp:gallery {"imageCrop":false,"linkTo":"none","align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}},"className":"is-style-default","twFixedWidthCols":true,"twVerticalAlignment":"center"} -->
+<figure class="wp-block-gallery alignwide has-nested-images columns-default is-style-default tw-fixed-cols tw-valign-center"><!-- wp:image {"lightbox":{"enabled":true},"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="THEME_URL/assets/images/angular-roof.webp" alt="An empty staircase under an angular roof in Darling Harbour, Sydney, Australia"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"lightbox":{"enabled":true},"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="THEME_URL/assets/images/abstract-geometric-art.webp" alt="White abstract geometric artwork from Dresden, Germany"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"lightbox":{"enabled":true},"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="THEME_URL/assets/images/museum.webp" alt="A ramp along a curved wall in the Kiasma Museu, Helsinki, Finland"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"lightbox":{"enabled":true},"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="THEME_URL/assets/images/tourist-and-building.webp" alt="Tourist taking photo of a building"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"lightbox":{"enabled":true},"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="THEME_URL/assets/images/green-staircase.webp" alt="Green staircase at Western University, London, Canada"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"lightbox":{"enabled":true},"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="THEME_URL/assets/images/art-gallery.webp" alt="Art Gallery of Ontario, Toronto, Canada"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"lightbox":{"enabled":true},"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="THEME_URL/assets/images/hotel-facade.webp" alt="Hyatt Regency San Francisco, San Francisco, United States"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"lightbox":{"enabled":true},"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="THEME_URL/assets/images/windows.webp" alt="Windows of a building in Nuremberg, Germany"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"lightbox":{"enabled":true},"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="THEME_URL/assets/images/building-exterior.webp" alt="Building exterior in Toronto, Canada"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 13:26:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 13:26:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[gallery]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Header]]></title>
+		<link>https://demo.twentig.com/tt4-blog/header/</link>
+		<pubDate>Tue, 21 Nov 2023 13:39:01 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"20px","bottom":"20px"}}},"backgroundColor":"base","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide has-base-background-color has-background" style="padding-top:20px;padding-bottom:20px"><!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between","flexWrap":"wrap"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"style":{"spacing":{"blockGap":"12px"},"layout":{"selfStretch":"fit","flexSize":null}},"layout":{"type":"flex"}} -->
+<div class="wp-block-group"><!-- wp:site-logo {"width":52,"shouldSyncIcon":true,"className":"is-style-rounded","twWidthMobile":40} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}}} -->
+<div class="wp-block-group"><!-- wp:site-title {"level":0} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:navigation {"ref":7,"layout":{"type":"flex","orientation":"horizontal"},"style":{"spacing":{"margin":{"top":"0"},"blockGap":"24px"},"layout":{"selfStretch":"fit","flexSize":null}}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>11</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 13:39:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 13:39:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[header]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="header"><![CDATA[header]]></category>
+		<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Footer]]></title>
+		<link>https://demo.twentig.com/tt4-blog/footer/</link>
+		<pubDate>Tue, 21 Nov 2023 13:42:33 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:navigation {"ref":7,"overlayMenu":"never","layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":"24px"},"typography":{"fontStyle":"normal","fontWeight":"400"}}} /-->
+
+<!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}},"spacing":{"margin":{"bottom":"var:preset|spacing|10"}}},"textColor":"contrast-2","fontSize":"small"} -->
+<p class="has-text-align-center has-contrast-2-color has-text-color has-link-color has-small-font-size" style="margin-bottom:var(--wp--preset--spacing--10)">© 2024. Designed with <a href="https://wordpress.org" rel="nofollow">WordPress</a>.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 13:42:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 13:42:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="footer"><![CDATA[footer]]></category>
+		<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[tea-cup]]></title>
+		<link>https://demo.twentig.com/tt4-blog/capturing-the-beauty-of-everyday-moments/tea-cup/</link>
+		<pubDate>Fri, 24 Nov 2023 11:05:26 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<guid isPermaLink="false">https://demo.twentig.com/tt4-blog/wp-content/uploads/sites/14/2023/11/tea-cup.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>29</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-24 11:05:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-24 11:05:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[tea-cup]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-blog/wp-content/uploads/sites/14/2023/11/tea-cup.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/11/tea-cup.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1240;s:6:"height";i:820;s:4:"file";s:20:"2023/11/tea-cup.webp";s:8:"filesize";i:29070;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:20:"tea-cup-300x198.webp";s:5:"width";i:300;s:6:"height";i:198;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7202;}s:5:"large";a:5:{s:4:"file";s:21:"tea-cup-1024x677.webp";s:5:"width";i:1024;s:6:"height";i:677;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:31626;}s:9:"thumbnail";a:5:{s:4:"file";s:20:"tea-cup-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3722;}s:12:"medium_large";a:5:{s:4:"file";s:20:"tea-cup-768x508.webp";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:21836;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Clearing Your Mind: A Path to Inner Peace]]></title>
+		<link>https://demo.twentig.com/tt4-blog/clearing-your-mind-a-path-to-inner-peace/</link>
+		<pubDate>Tue, 21 Nov 2023 13:49:38 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In today’s busy and noisy world, it’s easy to get caught up in the hustle and bustle of everyday life. We often find ourselves overwhelmed by our tasks and the constant stream of information coming at us from all directions. It’s important to take a step back and clear our minds in order to find inner peace.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One way to do this is by spending time in nature. Being in nature can help us disconnect from our daily routine and reconnect with ourselves. It can be a powerful tool for finding inner peace and clarity.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size">Why Nature is Important to Clear your Mind</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nature has a way of calming our minds and helping us relax. It can be a source of comfort and solace in times of stress. Being in nature can also help us disconnect from technology and the constant stream of information coming at us from all directions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Spending time in nature can also help us reconnect with ourselves. It can help us discover our true passions and values, and inspire us to pursue them. It can also help us appreciate the beauty and wonder of life, and cultivate a sense of gratitude and joy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size">How to Spend Time in Nature for Inner Peace</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There are many ways to spend time in nature for inner peace. You can choose the one that suits your preferences and lifestyle. Here are some suggestions:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"tw-list-spacing-medium"} -->
+<ul class="tw-list-spacing-medium"><!-- wp:list-item -->
+<li>Go for a walk or a hike in a park, a forest, or a mountain. Enjoy the fresh air, the greenery, and the sounds of nature.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Visit a lake, a river, or a beach. Watch the water flow, the waves crash, or the sun set. You can also swim, kayak, or surf if you like.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Plant a garden, a flower bed, or a pot of herbs. Tend to your plants, water them, and watch them grow. You can also harvest your own fruits.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="wp-block-heading has-large-font-size">The Power of Nature</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Spending time in nature can be a great way to clear your mind and find inner peace. It can help you relax, disconnect, reconnect, and discover yourself. It can also improve your mental health and well-being. Try some of the tips above and see how nature can transform your life. You won’t regret it</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 13:49:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 13:49:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[clearing-your-mind-a-path-to-inner-peace]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[woman-desert]]></title>
+		<link>https://demo.twentig.com/tt4-blog/clearing-your-mind-a-path-to-inner-peace/woman-desert/</link>
+		<pubDate>Tue, 21 Nov 2023 13:48:50 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 13:48:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 13:48:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[woman-desert]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>17</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-blog/wp-content/uploads/sites/14/2023/11/woman-desert.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/11/woman-desert.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1240;s:6:"height";i:820;s:4:"file";s:25:"2023/11/woman-desert.webp";s:8:"filesize";i:23036;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:25:"woman-desert-300x198.webp";s:5:"width";i:300;s:6:"height";i:198;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3050;}s:5:"large";a:5:{s:4:"file";s:26:"woman-desert-1024x677.webp";s:5:"width";i:1024;s:6:"height";i:677;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:18556;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"woman-desert-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1666;}s:12:"medium_large";a:5:{s:4:"file";s:25:"woman-desert-768x508.webp";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:12216;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog Home]]></title>
+		<link>https://demo.twentig.com/tt4-blog/home/</link>
+		<pubDate>Tue, 21 Nov 2023 14:06:12 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"blockGap":"0","margin":{"top":"0"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="margin-top:0"><!-- wp:heading {"textAlign":"center","level":1,"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50"}}}} -->
+<h1 class="wp-block-heading alignwide has-text-align-center" style="padding-top:var(--wp--preset--spacing--50)">A personal blog about product design, management and photography</h1>
+<!-- /wp:heading -->
+
+<!-- wp:query {"query":{"perPage":10,"pages":0,"offset":"0","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"layout":{"type":"constrained"}} -->
+<div class="wp-block-query"><!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>No posts were found.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"0","right":"0"},"margin":{"top":"20px","bottom":"0"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="margin-top:20px;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:0;padding-bottom:var(--wp--preset--spacing--50);padding-left:0"><!-- wp:post-template {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"default","columnCount":3}} -->
+<!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2","sizeSlug":"large","style":{"spacing":{"margin":{"bottom":"28px"}}}} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
+
+<!-- wp:template-part {"slug":"post-meta","theme":"twentytwentyfour"} /-->
+
+<!-- wp:post-excerpt {"style":{"spacing":{"margin":{"top":"20px"}}}} /-->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query-pagination {"paginationArrow":"arrow","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:query-pagination-previous {"className":"tw-link-hover-underline"} /-->
+
+<!-- wp:query-pagination-next {"className":"tw-link-hover-underline"} /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:group --></div>
+<!-- /wp:query --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays the latest posts as either the site homepage or as the "Posts page" as defined under reading settings. If it exists, the Front Page template overrides this template when posts are shown on the homepage.]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 14:06:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 14:06:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[All Archives]]></title>
+		<link>https://demo.twentig.com/tt4-blog/archive/</link>
+		<pubDate>Tue, 21 Nov 2023 14:09:42 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"blockGap":"0","margin":{"top":"0"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="margin-top:0"><!-- wp:query-title {"type":"archive","style":{"spacing":{"padding":{"top":"var:preset|spacing|50"}}}} /-->
+
+<!-- wp:query {"query":{"perPage":10,"pages":0,"offset":"0","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"layout":{"type":"constrained"}} -->
+<div class="wp-block-query"><!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>No posts were found.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"0","right":"0"},"margin":{"top":"20px","bottom":"0"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="margin-top:20px;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:0;padding-bottom:var(--wp--preset--spacing--50);padding-left:0"><!-- wp:post-template {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"default","columnCount":3}} -->
+<!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2","sizeSlug":"large","style":{"spacing":{"margin":{"bottom":"28px"}}}} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
+
+<!-- wp:template-part {"slug":"post-meta","theme":"twentytwentyfour"} /-->
+
+<!-- wp:post-excerpt {"style":{"spacing":{"margin":{"top":"20px"}}}} /-->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query-pagination {"paginationArrow":"arrow","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:query-pagination-previous {"className":"tw-link-hover-underline"} /-->
+
+<!-- wp:query-pagination-next {"className":"tw-link-hover-underline"} /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:group --></div>
+<!-- /wp:query --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays any archive, including posts by a single author, category, tag, taxonomy, custom post type, and date. This template will serve as a fallback when more specific templates (e.g. Category or Tag) cannot be found.]]></excerpt:encoded>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 14:09:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 14:09:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[archive]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Index]]></title>
+		<link>https://demo.twentig.com/tt4-blog/index/</link>
+		<pubDate>Tue, 21 Nov 2023 14:11:06 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","align":"full","layout":{"type":"constrained"}} -->
+<main class="wp-block-group alignfull"><!-- wp:heading {"textAlign":"center","level":1,"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50"}}}} -->
+<h1 class="wp-block-heading alignwide has-text-align-center" style="padding-top:var(--wp--preset--spacing--50)">Posts</h1>
+<!-- /wp:heading -->
+
+<!-- wp:query {"query":{"perPage":10,"pages":0,"offset":"0","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"layout":{"type":"constrained"}} -->
+<div class="wp-block-query"><!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>No posts were found.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"0","right":"0"},"margin":{"top":"20px","bottom":"0"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="margin-top:20px;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:0;padding-bottom:var(--wp--preset--spacing--50);padding-left:0"><!-- wp:post-template {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"default","columnCount":3}} -->
+<!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2","sizeSlug":"large","style":{"spacing":{"margin":{"bottom":"28px"}}}} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
+
+<!-- wp:template-part {"slug":"post-meta","theme":"twentytwentyfour"} /-->
+
+<!-- wp:post-excerpt {"style":{"spacing":{"margin":{"top":"20px"}}}} /-->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query-pagination {"paginationArrow":"arrow","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:query-pagination-previous {"className":"tw-link-hover-underline"} /-->
+
+<!-- wp:query-pagination-next {"className":"tw-link-hover-underline"} /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:group --></div>
+<!-- /wp:query --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Used as a fallback template for all pages when a more specific template is not defined.]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 14:11:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 14:11:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[index]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Post Meta]]></title>
+		<link>https://demo.twentig.com/tt4-blog/post-meta/</link>
+		<pubDate>Tue, 21 Nov 2023 14:13:56 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0.3em"},"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2","layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-group has-contrast-2-color has-text-color has-link-color"><!-- wp:post-date {"format":"M j, Y","isLink":true} /-->
+
+<!-- wp:paragraph -->
+<p>—</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:post-terms {"term":"category"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>24</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 14:13:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 14:13:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[post-meta]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+		<category domain="wp_template_part_area" nicename="uncategorized"><![CDATA[uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Single Posts]]></title>
+		<link>https://demo.twentig.com/tt4-blog/single/</link>
+		<pubDate>Tue, 21 Nov 2023 14:13:56 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","align":"full"} -->
+<main class="wp-block-group alignfull"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50"},"margin":{"bottom":"48px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-bottom:48px;padding-top:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10","padding":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
+<div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:post-title {"level":1,"fontSize":"x-large"} /-->
+
+<!-- wp:template-part {"slug":"post-meta","theme":"twentytwentyfour"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-featured-image {"style":{"spacing":{"margin":{"bottom":"48px","top":"48px"}}}} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:post-content {"lock":{"move":false,"remove":true},"align":"full","layout":{"type":"constrained"}} /-->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40"},"padding":{"bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:post-terms {"term":"post_tag","separator":"  ","className":"is-style-pill"} /-->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:spacer {"height":"var:preset|spacing|40"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}},"backgroundColor":"contrast-3","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-contrast-3-color has-alpha-channel-opacity has-contrast-3-background-color has-background is-style-wide" style="margin-bottom:var(--wp--preset--spacing--40)"/>
+<!-- /wp:separator -->
+
+<!-- wp:comments {"className":"wp-block-comments-query-loop"} -->
+<div class="wp-block-comments wp-block-comments-query-loop"><!-- wp:heading -->
+<h2 class="wp-block-heading">Comments</h2>
+<!-- /wp:heading -->
+
+<!-- wp:comments-title {"level":3} /-->
+
+<!-- wp:comment-template -->
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"40px"}}}} -->
+<div class="wp-block-group" style="margin-bottom:40px"><!-- wp:group {"style":{"spacing":{"blockGap":"0.5em"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:avatar {"size":40} /-->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:comment-author-name /-->
+
+<!-- wp:comment-date /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:comment-content /-->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:comment-edit-link /-->
+
+<!-- wp:comment-reply-link /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- /wp:comment-template -->
+
+<!-- wp:comments-pagination {"layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:comments-pagination-previous /-->
+
+<!-- wp:comments-pagination-next /-->
+<!-- /wp:comments-pagination -->
+
+<!-- wp:post-comments-form {"style":{"spacing":{"padding":{"top":"1px","bottom":"1px"}}}} /--></div>
+<!-- /wp:comments -->
+
+<!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns is-not-stacked-on-mobile" style="padding-top:var(--wp--preset--spacing--40)"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:post-navigation-link {"type":"previous","label":"Previous: ","showTitle":true,"linkLabel":true,"arrow":"arrow","style":{"typography":{"lineHeight":"1.3"}},"className":"tw-link-hover-underline"} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:post-navigation-link {"textAlign":"right","label":"Next: ","showTitle":true,"linkLabel":true,"arrow":"arrow","style":{"typography":{"lineHeight":"1.3"}},"className":"tw-link-hover-underline"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays single posts on your website unless a custom template has been applied to that post or a dedicated template exists.]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 14:13:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 14:13:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[single]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Search Results]]></title>
+		<link>https://demo.twentig.com/tt4-blog/search/</link>
+		<pubDate>Tue, 21 Nov 2023 14:15:25 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","align":"full","layout":{"type":"constrained"}} -->
+<main class="wp-block-group alignfull"><!-- wp:query-title {"type":"search","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|10"}}}} /-->
+
+<!-- wp:group {"layout":{"type":"constrained","contentSize":"840px","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:search {"label":"Search","showLabel":false,"buttonText":"Search","fontSize":"medium"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:query {"query":{"perPage":10,"pages":0,"offset":"0","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"layout":{"type":"constrained"}} -->
+<div class="wp-block-query"><!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>No posts were found.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"0","right":"0"},"margin":{"top":"20px","bottom":"0"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="margin-top:20px;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:0;padding-bottom:var(--wp--preset--spacing--50);padding-left:0"><!-- wp:post-template {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"default","columnCount":3}} -->
+<!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2","sizeSlug":"large","style":{"spacing":{"margin":{"bottom":"28px"}}}} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"16px"},"elements":{"link":{"color":{"text":"var:preset|color|contrast-2"}}}},"textColor":"contrast-2","layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-group has-contrast-2-color has-text-color has-link-color"><!-- wp:post-date {"format":"M j, Y"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:post-excerpt {"style":{"spacing":{"margin":{"top":"20px"}}}} /-->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query-pagination {"paginationArrow":"arrow","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:query-pagination-previous {"className":"tw-link-hover-underline"} /-->
+
+<!-- wp:query-pagination-next {"className":"tw-link-hover-underline"} /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:group --></div>
+<!-- /wp:query --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays when a visitor performs a search on your website.]]></excerpt:encoded>
+		<wp:post_id>26</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 14:15:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 14:15:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[search]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Page: 404]]></title>
+		<link>https://demo.twentig.com/tt4-blog/404/</link>
+		<pubDate>Tue, 21 Nov 2023 14:17:39 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","style":{"spacing":{"blockGap":"40px","padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<main class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading" id="page-not-found">Page Not Found</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|30"}}}} -->
+<p style="margin-top:var(--wp--preset--spacing--30)">The page you are looking for does not exist, or it has been moved. Please try searching using the form below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:search {"label":"Search","showLabel":false,"buttonText":"Search","fontSize":"medium"} /-->
+
+<!-- wp:spacer {"height":"20px","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays when a visitor views a non-existent page, such as a dead link or a mistyped URL.]]></excerpt:encoded>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 14:17:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 14:17:39]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[404]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+				</channel>
+</rss>

@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- generator="WordPress/6.4.1" created="2023-11-22 11:15" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Études</title>
+	<link>https://demo.twentig.com/tt4-default</link>
+	<description></description>
+	<pubDate>Wed, 22 Nov 2023 11:15:24 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://demo.twentig.com/</wp:base_site_url>
+	<wp:base_blog_url>https://demo.twentig.com/tt4-default</wp:base_blog_url>
+	<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[twentigauthor]]></wp:author_login><wp:author_email><![CDATA[email@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Twentig Author]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+	<wp:term>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[footer]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>3</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[header]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[header]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[twentytwentyfour]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[twentytwentyfour]]></wp:term_name>
+	</wp:term>
+	
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+		<item>
+		<title><![CDATA[The Dance of Light and Shadow in Staircase Design]]></title>
+		<link>https://demo.twentig.com/tt4-default/the-dance-of-light-and-shadow-in-staircase-design/</link>
+		<pubDate>Tue, 21 Nov 2023 13:02:55 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[Staircases are not just a means of connecting different levels of a building. They also express the personality of the architect and the client. Modern staircases can be a statement of elegance and sophistication, a focal point of a space. Let's explore how modern staircase design can use light and shadow to enhance the aesthetic appeal of a space.
+
+One of the most impressive examples of modern staircase design is the one in the Art Gallery of Ontario, designed by Frank Gehry. The staircase is made of wood and curves gracefully, creating a sense of fluidity and movement. The design is simple yet striking, with the wood panels creating a sense of warmth and natural beauty. The staircase is also a perfect example of how light and shadow can be used to create a sense of depth and dimension.
+
+The staircase is lit from above, creating a beautiful interplay of light and shadow. The light filters through the wood panels, creating a sense of warmth and intimacy. The shadows create a sense of depth and dimension, making the staircase feel like a living sculpture. The light and shadow also create a contrast between the organic shape of the staircase and the geometric shape of the surrounding walls, creating a dynamic and harmonious balance.
+
+This is just an example of how modern staircase design can use light and shadow to create stunning effects and enhance the aesthetic appeal of a space. There are many more examples of modern staircase design that use light and shadow in creative and innovative ways, such as the one in the National Museum of Scotland, or the one in the Apple Store in New York.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 13:02:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 13:02:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-dance-of-light-and-shadow-in-staircase-design]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[33]]></wp:meta_value>
+		</wp:postmeta>
+					</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://demo.twentig.com/tt4-default/</link>
+		<pubDate>Tue, 21 Nov 2023 13:02:55 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained","contentSize":"","wideSize":""}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1,"fontSize":"x-large"} -->
+<h1 class="wp-block-heading has-text-align-center has-x-large-font-size">A commitment to innovation and sustainability</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Études is a pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="SITE_URL/about/">About us</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30","style":{"layout":[]}} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"align":"wide","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image alignwide size-full is-style-rounded"><img src="THEME_URL/assets/images/building-exterior.webp" alt="Building exterior in Toronto, Canada"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-2-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">A passion for creating spaces</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|20"} -->
+<div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"32px","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"is-style-asterisk","fontSize":"medium","fontFamily":"body"} -->
+<h3 class="wp-block-heading is-style-asterisk has-body-font-family has-medium-font-size" style="font-style:normal;font-weight:600">Renovation and restoration</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Experience the fusion of imagination and expertise with Études Architectural Solutions.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"is-style-asterisk","fontSize":"medium","fontFamily":"body"} -->
+<h3 class="wp-block-heading is-style-asterisk has-body-font-family has-medium-font-size" style="font-style:normal;font-weight:600">Continuous Support</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Experience the fusion of imagination and expertise with Études Architectural Solutions.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"is-style-asterisk","fontSize":"medium","fontFamily":"body"} -->
+<h3 class="wp-block-heading is-style-asterisk has-body-font-family has-medium-font-size" style="font-style:normal;font-weight:600">App Access</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Experience the fusion of imagination and expertise with Études Architectural Solutions.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"32px","left":"var:preset|spacing|40"},"margin":{"top":"32px"}}}} -->
+<div class="wp-block-columns alignwide" style="margin-top:32px"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"is-style-asterisk","fontSize":"medium","fontFamily":"body"} -->
+<h3 class="wp-block-heading is-style-asterisk has-body-font-family has-medium-font-size" style="font-style:normal;font-weight:600">Consulting</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Experience the fusion of imagination and expertise with Études Architectural Solutions.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"is-style-asterisk","fontSize":"medium","fontFamily":"body"} -->
+<h3 class="wp-block-heading is-style-asterisk has-body-font-family has-medium-font-size" style="font-style:normal;font-weight:600">Project Management</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Experience the fusion of imagination and expertise with Études Architectural Solutions.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"is-style-asterisk","fontSize":"medium","fontFamily":"body"} -->
+<h3 class="wp-block-heading is-style-asterisk has-body-font-family has-medium-font-size" style="font-style:normal;font-weight:600">Architectural Solutions</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Experience the fusion of imagination and expertise with Études Architectural Solutions.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">An array of resources</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null}}} -->
+<p class="has-text-align-center">Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|20"} -->
+<div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","width":""} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Études Architect App</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"is-style-checkmark-list tw-list-spacing-medium"} -->
+<ul class="is-style-checkmark-list tw-list-spacing-medium"><!-- wp:list-item -->
+<li>Collaborate with fellow architects.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Showcase your projects.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Experience the world of architecture.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"","className":"tw-sm-order-first"} -->
+<div class="wp-block-column tw-sm-order-first"><!-- wp:image {"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="THEME_URL/assets/images/tourist-and-building.webp" alt="Tourist taking photo of a building"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="THEME_URL/assets/images/windows.webp" alt="Windows of a building in Nuremberg, Germany"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":""} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Études Newsletter</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"is-style-checkmark-list tw-list-spacing-medium"} -->
+<ul class="is-style-checkmark-list tw-list-spacing-medium"><!-- wp:list-item -->
+<li>A world of thought-provoking articles.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Case studies that celebrate architecture.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Exclusive access to design insights.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"backgroundColor":"contrast","textColor":"base","layout":{"type":"constrained","contentSize":""},"metadata":{"name":"Testimonial"}} -->
+<div class="wp-block-group alignfull has-base-color has-contrast-background-color has-text-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.2"}},"textColor":"base","fontSize":"x-large","fontFamily":"heading"} -->
+<p class="has-text-align-center has-base-color has-text-color has-heading-font-family has-x-large-font-size" style="line-height:1.2">
+			<em>“Études has saved us thousands of hours of work and has unlocked insights we never thought possible.”</em>
+		</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|10"} -->
+<div style="height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"nowrap"},"metadata":{"name":"Testimonial source"}} -->
+<div class="wp-block-group"><!-- wp:image {"align":"center","id":28,"width":"60px","aspectRatio":"1","scale":"cover","sizeSlug":"thumbnail","linkDestination":"none","style":{"border":{"radius":"100px"}}} -->
+<figure class="wp-block-image aligncenter size-thumbnail is-resized has-custom-border"><img src="https://demo.twentig.com/tt4-default/wp-content/uploads/sites/13/2023/11/headshot-150x150.webp" alt="Blurred portrait of a person" class="wp-image-28" style="border-radius:100px;aspect-ratio:1;object-fit:cover;width:60px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|10","bottom":"0"}}}} -->
+<p class="has-text-align-center" style="margin-top:var(--wp--preset--spacing--10);margin-bottom:0">Annie Steiner</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size" style="font-style:normal;font-weight:300">CEO, Greenprint</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:heading {"align":"wide","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|40"}}}} -->
+<h2 class="wp-block-heading alignwide" style="margin-bottom:var(--wp--preset--spacing--40)">Latest posts</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:query {"query":{"perPage":"8","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"layout":{"type":"default"}} -->
+<!-- wp:separator {"backgroundColor":"contrast-3","className":"alignwide is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-contrast-3-color has-alpha-channel-opacity has-contrast-3-background-color has-background alignwide is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:columns {"verticalAlignment":"top","align":"wide","style":{"spacing":{"blockGap":{"top":"4px","left":"20px"},"margin":{"top":"24px","bottom":"24px"}}}} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-top" style="margin-top:24px;margin-bottom:24px"><!-- wp:column {"verticalAlignment":"top","width":"72%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:72%"><!-- wp:post-title {"isLink":true,"style":{"typography":{"fontSize":"1.5rem"}}} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"28%","layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:28%"><!-- wp:template-part {"slug":"post-meta","theme":"twentytwentyfour"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>No posts were found.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-top:0;padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","style":{"border":{"radius":"16px"},"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide has-base-2-background-color has-background" style="border-radius:16px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:heading {"textAlign":"center","fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-x-large-font-size">Join 900+ subscribers</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Stay in the loop with everything you need to know.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Sign up</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 13:02:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 13:02:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demo.twentig.com/tt4-default/wp-global-styles-twentytwentyfour/</link>
+		<pubDate>Tue, 21 Nov 2023 15:01:34 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[{"styles":{"spacing":{"padding":{"top":"0px","right":"var:preset|spacing|40","bottom":"0px","left":"var:preset|spacing|40"}}},"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 15:01:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 15:01:34]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfour]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						</item>
+					<item>
+		<title><![CDATA[About]]></title>
+		<link>https://demo.twentig.com/tt4-default/about/</link>
+		<pubDate>Tue, 21 Nov 2023 15:07:32 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"stretch","width":""} -->
+<div class="wp-block-column is-vertically-aligned-stretch"><!-- wp:group {"style":{"dimensions":{"minHeight":"100%"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch","verticalAlignment":"space-between"}} -->
+<div class="wp-block-group" style="min-height:100%"><!-- wp:group {"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"1.25rem"}},"fontFamily":"body"} -->
+<h1 class="wp-block-heading has-body-font-family" style="font-size:1.25rem">About us</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"x-large","fontFamily":"heading"} -->
+<p class="has-heading-font-family has-x-large-font-size" style="line-height:1.2">Études offers comprehensive consulting, management, design, and research solutions. Every architectural endeavor is an opportunity to shape the future.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained","contentSize":"300px","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"layout":{"selfStretch":"fixed","flexSize":"50%"}}} -->
+<p>Leaving an indelible mark on the landscape of tomorrow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="SITE_URL/contact/">Get in touch</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"aspectRatio":"3/4","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="THEME_URL/assets/images/museum.webp" alt="A ramp along a curved wall in the Kiasma Museu, Helsinki, Finland" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-2-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"20px","left":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"40%","layout":{"type":"default"}} -->
+<div class="wp-block-column" style="flex-basis:40%"><!-- wp:heading {"style":{"typography":{"fontSize":"1.25rem"}},"fontFamily":"body"} -->
+<h2 class="wp-block-heading has-body-font-family" style="font-size:1.25rem">Our values</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"60%","style":{"spacing":{"blockGap":"var:preset|spacing|40"}}} -->
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"x-large","fontFamily":"heading"} -->
+<p class="has-heading-font-family has-x-large-font-size" style="line-height:1.2">With meticulous attention to detail and a commitment to excellence, we create spaces that inspire, elevate, and enrich the lives of those who inhabit them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>The revitalized Art Gallery is set to redefine the cultural landscape of Toronto, serving as a nexus of artistic expression, community engagement, and architectural marvel. The expansion and renovation project pay homage to the Art Gallery's rich history while embracing the future, ensuring that the gallery remains a beacon of inspiration.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>We believe architecture is not just about structures, but about creating spaces that resonate with their environment and community. This ethos is vividly embodied in the redesigned Art Gallery, where each space is meticulously crafted to foster creativity and connection. Our innovative use of light, materials, and spatial design transforms the gallery into a living canvas.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"60%"} -->
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"color":{}},"className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="THEME_URL/assets/images/abstract-geometric-art.webp" alt="White abstract geometric artwork from Dresden, Germany" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"40%"} -->
+<div class="wp-block-column" style="flex-basis:40%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Guiding your business through the project</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Experience the fusion of imagination and expertise with Études—the catalyst for architectural transformations that enrich the world around us.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="SITE_URL/services/">Our services</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"base-2","layout":{"type":"constrained"},"metadata":{"name":"Team members"}} -->
+<div class="wp-block-group alignfull has-base-2-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Meet our team</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Our comprehensive suite of professionals caters to a diverse team, ranging from seasoned architects to renowned engineers.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|20"} -->
+<div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|30"}}},"twStack":"md-2"} -->
+<div class="wp-block-columns alignwide tw-cols-stack-md-2"><!-- wp:column {"layout":{"type":"default"}} -->
+<div class="wp-block-column"><!-- wp:image {"id":28,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://demo.twentig.com/tt4-default/wp-content/uploads/sites/13/2023/11/headshot.webp" alt="Blurred portrait of a person" class="wp-image-28" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">
+					<strong>Francesca Piovani</strong>
+				</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size">Founder, CEO &amp; Architect</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"layout":{"type":"default"}} -->
+<div class="wp-block-column"><!-- wp:image {"id":28,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://demo.twentig.com/tt4-default/wp-content/uploads/sites/13/2023/11/headshot.webp" alt="Blurred portrait of a person" class="wp-image-28" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">
+					<strong>Rhye Moore</strong>
+				</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size">Engineering Manager</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"layout":{"type":"default"}} -->
+<div class="wp-block-column"><!-- wp:image {"id":28,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://demo.twentig.com/tt4-default/wp-content/uploads/sites/13/2023/11/headshot.webp" alt="Blurred portrait of a person" class="wp-image-28" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">
+					<strong>Helga Steiner</strong>
+				</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size">Architect</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"layout":{"type":"default"}} -->
+<div class="wp-block-column"><!-- wp:image {"id":28,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://demo.twentig.com/tt4-default/wp-content/uploads/sites/13/2023/11/headshot.webp" alt="Blurred portrait of a person" class="wp-image-28" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">
+					<strong>Ivan Lawrence</strong>
+				</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size">Project Manager</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}},"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"backgroundColor":"contrast","textColor":"base","layout":{"type":"constrained"},"metadata":{"name":"FAQs"}} -->
+<div class="wp-block-group alignfull has-base-color has-contrast-background-color has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:heading {"align":"wide","style":{"typography":{"fontSize":"10rem","letterSpacing":"-0.02em"}},"textColor":"base"} -->
+<h2 class="wp-block-heading alignwide has-base-color has-text-color" style="font-size:10rem;letter-spacing:-0.02em">FAQs</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"base","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-base-color has-alpha-channel-opacity has-base-background-color has-background is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}},"border":{"top":{"width":"0px","style":"none"},"right":{"width":"0px","style":"none"},"bottom":{"color":"var:preset|color|base","style":"solid","width":"1px"},"left":{"width":"0px","style":"none"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
+<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="border-top-style:none;border-top-width:0px;border-right-style:none;border-right-width:0px;border-bottom-color:var(--wp--preset--color--base);border-bottom-style:solid;border-bottom-width:1px;border-left-style:none;border-left-width:0px;margin-top:0"><summary>What is your process working in smaller projects?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-1"}}}},"textColor":"contrast-1"} -->
+<p class="has-contrast-1-color has-text-color has-link-color">Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}},"border":{"top":{"width":"0px","style":"none"},"right":{"width":"0px","style":"none"},"bottom":{"color":"var:preset|color|base","style":"solid","width":"1px"},"left":{"width":"0px","style":"none"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
+<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="border-top-style:none;border-top-width:0px;border-right-style:none;border-right-width:0px;border-bottom-color:var(--wp--preset--color--base);border-bottom-style:solid;border-bottom-width:1px;border-left-style:none;border-left-width:0px;margin-top:0"><summary>Who is behind Études?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-1"}}}},"textColor":"contrast-1"} -->
+<p class="has-contrast-1-color has-text-color has-link-color">Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}},"border":{"top":{"width":"0px","style":"none"},"right":{"width":"0px","style":"none"},"bottom":{"color":"var:preset|color|base","style":"solid","width":"1px"},"left":{"width":"0px","style":"none"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
+<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="border-top-style:none;border-top-width:0px;border-right-style:none;border-right-width:0px;border-bottom-color:var(--wp--preset--color--base);border-bottom-style:solid;border-bottom-width:1px;border-left-style:none;border-left-width:0px;margin-top:0"><summary>I'd like to get to meet fellow architects, how can I do that?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-1"}}}},"textColor":"contrast-1"} -->
+<p class="has-contrast-1-color has-text-color has-link-color">Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}},"border":{"top":{"width":"0px","style":"none"},"right":{"width":"0px","style":"none"},"bottom":{"color":"var:preset|color|base","style":"solid","width":"1px"},"left":{"width":"0px","style":"none"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
+<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="border-top-style:none;border-top-width:0px;border-right-style:none;border-right-width:0px;border-bottom-color:var(--wp--preset--color--base);border-bottom-style:solid;border-bottom-width:1px;border-left-style:none;border-left-width:0px;margin-top:0"><summary>Can I apply to be a part of the team or work as a contractor?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-1"}}}},"textColor":"contrast-1"} -->
+<p class="has-contrast-1-color has-text-color has-link-color">Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|10","style":{"spacing":{"margin":{"top":"var:preset|spacing|10","bottom":"0"}}}} -->
+<div style="margin-top:var(--wp--preset--spacing--10);margin-bottom:0;height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","width":""} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
+<h2 class="wp-block-heading">Enhance your architectural journey with Études Architect.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"is-style-checkmark-list tw-list-spacing-medium"} -->
+<ul class="is-style-checkmark-list tw-list-spacing-medium"><!-- wp:list-item -->
+<li>Collaborate with fellow architects.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Showcase your projects.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Experience the world of architecture.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Get started</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button">How it works</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="THEME_URL/assets/images/angular-roof.webp" alt="An empty staircase under an angular roof in Darling Harbour, Sydney, Australia" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 15:07:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 15:07:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Services]]></title>
+		<link>https://demo.twentig.com/tt4-default/services/</link>
+		<pubDate>Tue, 21 Nov 2023 15:12:54 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"20px","left":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"40%"} -->
+<div class="wp-block-column" style="flex-basis:40%"><!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"1.25rem"}},"fontFamily":"body"} -->
+<h1 class="wp-block-heading has-body-font-family" style="font-size:1.25rem">Our services</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"60%"} -->
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"x-large","fontFamily":"heading"} -->
+<p class="has-heading-font-family has-x-large-font-size" style="line-height:1.2">From consulting to design to research, we provide a variety of services to support your architectural goals. We help you create spaces that matter.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"align":"wide","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image alignwide size-large is-style-rounded"><img src="THEME_URL/assets/images/hotel-facade.webp" alt="Hyatt Regency San Francisco, San Francisco, United States"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-2-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"32px","left":"32px"}}},"twStack":"md"} -->
+<div class="wp-block-columns alignwide tw-cols-stack-md"><!-- wp:column {"width":"33%"} -->
+<div class="wp-block-column" style="flex-basis:33%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Shaping a sustainable future with innovative architecture.</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"32px","left":"32px"}}}} -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}}} -->
+<p style="font-style:normal;font-weight:600">Consulting</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}}} -->
+<p style="font-style:normal;font-weight:600">Project Management</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"32px","left":"32px"},"margin":{"top":"32px"}}}} -->
+<div class="wp-block-columns" style="margin-top:32px"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}}} -->
+<p style="font-style:normal;font-weight:600">Design</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}}} -->
+<p style="font-style:normal;font-weight:600">Maintenance</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:cover {"url":"THEME_URL/assets/images/art-gallery.webp","hasParallax":true,"dimRatio":0,"overlayColor":"base","minHeight":100,"minHeightUnit":"vh","isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-light has-parallax" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-base-background-color has-background-dim-0 has-background-dim"></span><div role="img" class="wp-block-cover__image-background has-parallax" style="background-position:50% 50%;background-image:url(THEME_URL/assets/images/art-gallery.webp)"></div><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"500px"} -->
+<div style="height:500px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-2-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:spacer {"height":"var:preset|spacing|50"} -->
+<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.2","fontStyle":"normal","fontWeight":"400"}},"fontSize":"x-large","fontFamily":"heading"} -->
+<p class="has-text-align-center has-heading-font-family has-x-large-font-size" style="font-style:normal;font-weight:400;line-height:1.2"><em>Études</em> is not confined to the past—we are passionate about the cutting edge designs shaping our world today.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
+<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}},"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"contrast","textColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-color has-contrast-background-color has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group alignwide"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base-2"}}}},"textColor":"base-2"} -->
+<h2 class="wp-block-heading has-base-2-color has-text-color has-link-color">Our work</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers. Études is the bridge that transforms architectural dreams into remarkable built realities.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|20"} -->
+<div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="THEME_URL/assets/images/windows.webp" alt="Windows of a building in Nuremberg, Germany" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|40"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"lightbox":{"enabled":false},"aspectRatio":"3/4","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="THEME_URL/assets/images/angular-roof.webp" alt="An empty staircase under an angular roof in Darling Harbour, Sydney, Australia" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
+<div class="wp-block-column"><!-- wp:spacer {"height":"var:preset|spacing|40","className":"tw-sm-hidden"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer tw-sm-hidden"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"lightbox":{"enabled":false},"aspectRatio":"3/4","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="THEME_URL/assets/images/art-gallery.webp" alt="Art Gallery of Ontario, Toronto, Canada" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|40"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"lightbox":{"enabled":false},"aspectRatio":"4/3","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="THEME_URL/assets/images/building-exterior.webp" alt="Building exterior in Toronto, Canada" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"aspectRatio":"3/4","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="THEME_URL/assets/images/museum.webp" alt="A ramp along a curved wall in the Kiasma Museu, Helsinki, Finland" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|40"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"lightbox":{"enabled":false},"aspectRatio":"3/2","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="THEME_URL/assets/images/tourist-and-building.webp" alt="Tourist taking photo of a building" style="aspect-ratio:3/2;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"},"metadata":{"name":"Pricing Table"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}},"border":{"radius":"16px"}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide has-base-2-background-color has-background" style="border-radius:16px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Our pricing</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">We offer flexible options, which you can adapt to the different needs of each project, tailored to your vision.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|20"} -->
+<div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|20"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|10"}},"border":{"top":{"color":"var:preset|color|contrast-3","width":"1px"}}}} -->
+<div class="wp-block-column" style="border-top-color:var(--wp--preset--color--contrast-3);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="font-size:1.5rem">
+					<em>Free</em>
+				</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":4,"fontSize":"x-large"} -->
+<h4 class="wp-block-heading has-text-align-center has-x-large-font-size">$0</h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|10","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Access to 5 exclusive <em>Études Articles</em> per month.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"backgroundColor":"contrast-3","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-contrast-3-color has-alpha-channel-opacity has-contrast-3-background-color has-background is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"center","textColor":"contrast-2"} -->
+<p class="has-text-align-center has-contrast-2-color has-text-color">
+						<s>Weekly print edition.</s>
+					</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"backgroundColor":"contrast-3","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-contrast-3-color has-alpha-channel-opacity has-contrast-3-background-color has-background is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"center","textColor":"contrast-2"} -->
+<p class="has-text-align-center has-contrast-2-color has-text-color">
+						<s>Exclusive access to the <em>Études</em> app for iOS and Android.</s>
+					</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|10","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"width":100,"className":"is-style-outline"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-outline"><a class="wp-block-button__link wp-element-button">Subscribe</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|10"}},"border":{"top":{"color":"var:preset|color|contrast","width":"2px"}}}} -->
+<div class="wp-block-column" style="border-top-color:var(--wp--preset--color--contrast);border-top-width:2px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="font-size:1.5rem">
+					<em>Connoisseur</em>
+				</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":4,"fontSize":"x-large"} -->
+<h4 class="wp-block-heading has-text-align-center has-x-large-font-size">$12</h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|10","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Access to 20 exclusive <em>Études Articles</em> per month.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"backgroundColor":"contrast-3","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-contrast-3-color has-alpha-channel-opacity has-contrast-3-background-color has-background is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Weekly print edition.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"backgroundColor":"contrast-3","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-contrast-3-color has-alpha-channel-opacity has-contrast-3-background-color has-background is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Exclusive access to the <em>Études</em> app for iOS and Android.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|10","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"width":100,"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link wp-element-button">Subscribe</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30","top":"var:preset|spacing|30","bottom":"var:preset|spacing|10"}},"border":{"top":{"color":"var:preset|color|contrast-3","width":"1px"}}}} -->
+<div class="wp-block-column" style="border-top-color:var(--wp--preset--color--contrast-3);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--30)"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="font-size:1.5rem">
+					<em>Expert</em>
+				</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":4,"fontSize":"x-large"} -->
+<h4 class="wp-block-heading has-text-align-center has-x-large-font-size">$28</h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|10","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Exclusive, unlimited access to <em>Études Articles</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"backgroundColor":"contrast-3","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-contrast-3-color has-alpha-channel-opacity has-contrast-3-background-color has-background is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Weekly print edition.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"backgroundColor":"contrast-3","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-contrast-3-color has-alpha-channel-opacity has-contrast-3-background-color has-background is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Exclusive access to the <em>Études</em> app for iOS and Android</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|10","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"width":100,"className":"is-style-outline"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-outline"><a class="wp-block-button__link wp-element-button">Subscribe</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 15:12:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 15:12:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[services]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://demo.twentig.com/tt4-default/navigation/</link>
+		<pubDate>Tue, 21 Nov 2023 15:09:32 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"About","type":"page","id":7,"url":"https://demo.twentig.com/tt4-default/about/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Services","type":"page","id":9,"url":"https://demo.twentig.com/tt4-default/services/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Blog","type":"page","id":18,"url":"https://demo.twentig.com/tt4-default/blog/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Contact","type":"page","id":13,"url":"https://demo.twentig.com/tt4-default/contact/","kind":"post-type"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 15:09:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 15:09:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Contact]]></title>
+		<link>https://demo.twentig.com/tt4-default/contact/</link>
+		<pubDate>Tue, 21 Nov 2023 15:14:48 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|60","left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"40%"} -->
+<div class="wp-block-column" style="flex-basis:40%"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Get in touch</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"layout":{"selfStretch":"fixed","flexSize":"50%"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
+<p style="margin-bottom:var(--wp--preset--spacing--30)">If you have any questions or just want to say hello, please don’t hesitate to contact us. We’ll get back to you soon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
+<p style="margin-bottom:var(--wp--preset--spacing--30)">16 Thompson Street<br>San Francisco, CA 94102<br>(123) 456-7890</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:email@example.com">Contact us</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"60%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:60%"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"color":{}},"className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="THEME_URL/assets/images/green-staircase.webp" alt="Green staircase at Western University, London, Canada" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 15:14:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 15:14:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog]]></title>
+		<link>https://demo.twentig.com/tt4-default/blog/</link>
+		<pubDate>Tue, 21 Nov 2023 15:17:57 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 15:17:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 15:17:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Header]]></title>
+		<link>https://demo.twentig.com/tt4-default/header/</link>
+		<pubDate>Tue, 21 Nov 2023 15:22:36 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"20px","bottom":"20px"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-base-background-color has-background" style="padding-top:20px;padding-bottom:20px"><!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between","flexWrap":"wrap"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"},"layout":{"selfStretch":"fit","flexSize":null}},"layout":{"type":"flex"}} -->
+<div class="wp-block-group"><!-- wp:site-logo {"width":60} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}}} -->
+<div class="wp-block-group"><!-- wp:site-title {"level":0} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:navigation {"ref":10,"layout":{"type":"flex","orientation":"horizontal"},"style":{"spacing":{"margin":{"top":"0"},"blockGap":"24px"},"layout":{"selfStretch":"fit","flexSize":null}}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 15:22:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 15:22:36]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[header]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="header"><![CDATA[header]]></category>
+		<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Footer Navigation 2]]></title>
+		<link>https://demo.twentig.com/tt4-default/footer-navigation-2/</link>
+		<pubDate>Tue, 21 Nov 2023 15:27:47 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Privacy Policy","url":"#","kind":"custom"} /-->
+
+<!-- wp:navigation-link {"label":"Terms and Conditions","url":"#","kind":"custom"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 15:27:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 15:27:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer-navigation-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Footer Navigation 3]]></title>
+		<link>https://demo.twentig.com/tt4-default/footer-navigation-3/</link>
+		<pubDate>Tue, 21 Nov 2023 15:27:47 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Facebook","url":"#"} /-->
+
+<!-- wp:navigation-link {"label":"Instagram","url":"#"} /-->
+
+<!-- wp:navigation-link {"label":"Twitter/X","url":"#"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 15:27:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 15:27:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer-navigation-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Footer]]></title>
+		<link>https://demo.twentig.com/tt4-default/footer/</link>
+		<pubDate>Tue, 21 Nov 2023 15:27:47 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"30%"} -->
+<div class="wp-block-column" style="flex-basis:30%"><!-- wp:group {"style":{"dimensions":{"minHeight":""},"layout":{"selfStretch":"fit","flexSize":null}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:site-logo {"width":20,"shouldSyncIcon":false,"style":{"layout":{"selfStretch":"fit","flexSize":null}}} /-->
+
+<!-- wp:site-title {"level":0,"fontSize":"medium"} /-->
+
+<!-- wp:site-tagline {"fontSize":"small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"20%"} -->
+<div class="wp-block-column" style="flex-basis:20%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:group {"style":{"spacing":{"blockGap":"24px"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"has-medium-font-size","fontFamily":"body"} -->
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Company</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:navigation {"ref":10,"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"},"style":{"typography":{"fontStyle":"normal","fontWeight":"400"},"spacing":{"blockGap":"var:preset|spacing|10"}},"fontSize":"small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"has-medium-font-size","fontFamily":"body"} -->
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Privacy</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:navigation {"ref":22,"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"},"style":{"typography":{"fontStyle":"normal","fontWeight":"400"},"spacing":{"blockGap":"var:preset|spacing|10"}},"fontSize":"small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"className":"has-medium-font-size","fontFamily":"body"} -->
+<h2 class="wp-block-heading has-medium-font-size has-body-font-family" style="font-style:normal;font-weight:600">Social</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:navigation {"ref":23,"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"},"style":{"typography":{"fontStyle":"normal","fontWeight":"400"},"spacing":{"blockGap":"var:preset|spacing|10"}},"fontSize":"small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"0"}}}} -->
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:0"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast-2","fontSize":"small"} -->
+<p class="has-contrast-2-color has-text-color has-link-color has-small-font-size"> Copyright © 2024. Designed with <a href="https://wordpress.org" rel="nofollow">WordPress</a>. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 15:27:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 15:27:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="footer"><![CDATA[footer]]></category>
+		<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog Home]]></title>
+		<link>https://demo.twentig.com/tt4-default/home/</link>
+		<pubDate>Tue, 21 Nov 2023 15:41:11 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
+
+<!-- wp:group {"tagName":"main","align":"full","layout":{"type":"constrained"}} -->
+<main class="wp-block-group alignfull"><!-- wp:heading {"level":1,"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50"}}}} -->
+<h1 class="wp-block-heading alignwide" style="padding-top:var(--wp--preset--spacing--50)">News, inspirations, and thoughts.</h1>
+<!-- /wp:heading -->
+
+<!-- wp:query {"query":{"perPage":12,"pages":0,"offset":"0","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-query alignwide"><!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>No posts were found.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:0;padding-bottom:var(--wp--preset--spacing--50);padding-left:0"><!-- wp:post-template {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"grid","columnCount":3}} -->
+<!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/4","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"var:preset|spacing|20"}}}} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"10px","margin":{"top":"var:preset|spacing|20"},"padding":{"top":"0"}}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--20);padding-top:0"><!-- wp:post-title {"isLink":true,"style":{"layout":{"flexSize":"min(2.5rem, 3vw)","selfStretch":"fixed"}},"fontSize":"large"} /-->
+
+<!-- wp:template-part {"slug":"post-meta","theme":"twentytwentyfour"} /-->
+
+<!-- wp:post-excerpt {"excerptLength":30,"style":{"layout":{"flexSize":"min(2.5rem, 3vw)","selfStretch":"fixed"}},"fontSize":"small"} /-->
+
+<!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"min(2.5rem, 3vw)","selfStretch":"fixed"}}} -->
+<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|40","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query-pagination {"paginationArrow":"arrow","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:query-pagination-previous /-->
+
+<!-- wp:query-pagination-next /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:group --></div>
+<!-- /wp:query --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays the latest posts as either the site homepage or as the "Posts page" as defined under reading settings. If it exists, the Front Page template overrides this template when posts are shown on the homepage.]]></excerpt:encoded>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 15:41:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 15:41:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[headshot]]></title>
+		<link>https://demo.twentig.com/tt4-default/headshot/</link>
+		<pubDate>Tue, 21 Nov 2023 15:42:40 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>28</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-21 15:42:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-21 15:42:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[headshot]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-default/wp-content/uploads/sites/13/2023/11/headshot.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/11/headshot.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:690;s:6:"height";i:690;s:4:"file";s:21:"2023/11/headshot.webp";s:8:"filesize";i:9706;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:21:"headshot-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2232;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"headshot-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1108;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[spiral-staircase]]></title>
+		<link>https://demo.twentig.com/tt4-default/the-dance-of-light-and-shadow-in-staircase-design/spiral-staircase/</link>
+		<pubDate>Wed, 22 Nov 2023 10:55:58 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-22 10:55:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-22 10:55:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[spiral-staircase]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-default/wp-content/uploads/sites/13/2023/11/spiral-staircase.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/11/spiral-staircase.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1240;s:6:"height";i:820;s:4:"file";s:29:"2023/11/spiral-staircase.webp";s:8:"filesize";i:25612;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:29:"spiral-staircase-300x198.webp";s:5:"width";i:300;s:6:"height";i:198;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4748;}s:5:"large";a:5:{s:4:"file";s:30:"spiral-staircase-1024x677.webp";s:5:"width";i:1024;s:6:"height";i:677;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:24672;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"spiral-staircase-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2404;}s:12:"medium_large";a:5:{s:4:"file";s:29:"spiral-staircase-768x508.webp";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:16862;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+				</item>
+					<item>
+		<title><![CDATA[The Brilliance of Frank Gehry’s Concert Hall]]></title>
+		<link>https://demo.twentig.com/tt4-default/the-brilliance-of-frank-gehrys-concert-hall/</link>
+		<pubDate>Wed, 22 Nov 2023 11:12:21 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>The Los Angeles concert hall is a stunning example of Gehry’s signature style, which combines organic forms and metallic materials to create dynamic and expressive structures. The building’s exterior is composed of curved and angular panels of stainless steel, which reflect the light and the surrounding environment. The building’s shape evokes the image of a ship’s sails, or a musical instrument, depending on the viewer’s perspective and imagination.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The interior of the concert hall is equally impressive, with its curved walls and high ceilings that create a spacious and elegant atmosphere. The auditorium is designed to enhance the acoustics and the intimacy of the musical performance, with a vineyard-style seating arrangement that places the audience close to the stage and around the orchestra.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The concert hall is not only a place for music, but also a place for the public. Gehry envisioned the building as a “living room” for the city, a space that invites people to enjoy and interact with the architecture and the art. The building has several public areas, such as a garden, a cafe, a bookstore, and a gallery, that are open to visitors and offer views of the cityscape.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The concert hall is a testament to Gehry’s ability to create a building that is both beautiful and functional, both innovative and respectful of its context. The building is a perfect example of how architecture can be used to create a space that is both inspiring and inviting, both artistic and accessible. The building is a true architectural marvel.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-22 11:12:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-22 11:12:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-brilliance-of-frank-gehrys-concert-hall]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[36]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[modern-architecture]]></title>
+		<link>https://demo.twentig.com/tt4-default/the-brilliance-of-frank-gehrys-concert-hall/modern-architecture/</link>
+		<pubDate>Wed, 22 Nov 2023 11:12:12 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>36</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-22 11:12:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-22 11:12:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[modern-architecture]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>35</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.twentig.com/tt4-default/wp-content/uploads/sites/13/2023/11/modern-architecture.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/11/modern-architecture.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1240;s:6:"height";i:820;s:4:"file";s:32:"2023/11/modern-architecture.webp";s:8:"filesize";i:29140;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"modern-architecture-300x198.webp";s:5:"width";i:300;s:6:"height";i:198;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5336;}s:5:"large";a:5:{s:4:"file";s:33:"modern-architecture-1024x677.webp";s:5:"width";i:1024;s:6:"height";i:677;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:29120;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"modern-architecture-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2626;}s:12:"medium_large";a:5:{s:4:"file";s:32:"modern-architecture-768x508.webp";s:5:"width";i:768;s:6:"height";i:508;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:19774;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+			</item>
+				</channel>
+</rss>
+	

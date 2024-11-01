@@ -1,0 +1,1 @@
+.wp-block-quote:is(.is-style-plain,.is-style-tw-icon){border:none}.wp-block-quote:is(.is-style-plain,.is-style-tw-icon):not(.has-background){padding:0!important;border:0!important;background:none}.wp-block-quote.is-style-tw-icon::before{content:"\201C";display:block;line-height:1;font-size:2em;margin-bottom:-0.125em}
